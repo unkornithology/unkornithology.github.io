@@ -192,9 +192,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-  google_scholar: citations?user=Q82K8tsAAAAJ&hl=en
-  github: jacobccooper
+# socialmedia:
+#   google_scholar: citations?user=Q82K8tsAAAAJ&hl=en
+#   github: jacobccooper
 #    twitter   : phlow
 #    facebook  : phlow.media
 
