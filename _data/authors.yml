@@ -5,10 +5,12 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-phlow: # replace this with your info
+jcc: # replace this with your info
   name: "Jacob C. Cooper"
   siterole: "webmaster, primary user"
   uri: http://jacobccooper.github.io
-  email: "jccooper@uchicago.edu"
-  twitter: 
+  email: "jcooper1@fieldmuseum.org"
+  google-scholar: citations?user=Q82K8tsAAAAJ&hl=en
+  github: jacobccooper
+#  twitter: 
 # you can add more authors here

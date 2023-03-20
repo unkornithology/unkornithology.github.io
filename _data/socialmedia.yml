@@ -1,12 +1,16 @@
 - name: GitHub
   url: http://github.com/jacobccooper
   class: icon-github
-  title: Code and more
+  title: "Code and more"
 
 - name: YouTube
   url: http://www.youtube.com/jacobccooper
   class: icon-youtube
   title: "Videos related to research and nature"
+  
+#- name: Google Scholar
+#  url: https://scholar.google.com/citations?user=Q82K8tsAAAAJ&hl=en
+#  title: "Scientific publications"
 
 #- name: Twitter
 #  url: http://twitter.com/phlow

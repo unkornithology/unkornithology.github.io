@@ -21,7 +21,7 @@ credits: '<p>Adapted by Jacob C. Cooper. Template created by <a href="http://phl
 
 # Main author of the website
 # See > authors.yml
-author: jacobccooper
+author: jcc
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -113,7 +113,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: jcc     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +122,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: jcc     # Default author for posts
 
 
 
@@ -192,7 +192,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-#socialmedia:
+socialmedia:
+  google_scholar: citations?user=Q82K8tsAAAAJ&hl=en
+  github: jacobccooper
 #    twitter   : phlow
 #    facebook  : phlow.media
 
