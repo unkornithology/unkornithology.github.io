@@ -41,8 +41,8 @@ baseurl: '/home'
 
 # double check - not working at present
 # urlimg: 'https://github.com/jacobccooper/jacobccooper.github.io/tree/gh-pages/images/'
-# urlimg: 'https://jacobccooper.github.io/tree/gh-pages/images/'
-urlimg: 'https://github.com/jacobccooper/jacobccooper.github.io/blob/gh-pages/images/'
+urlimg: 'https://jacobccooper.github.io/tree/gh-pages/images/'
+# urlimg: 'https://github.com/jacobccooper/jacobccooper.github.io/blob/gh-pages/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
