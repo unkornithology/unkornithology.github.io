@@ -31,7 +31,7 @@ url: 'https://jacobccooper.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -144,8 +144,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
+# google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
 
@@ -192,9 +192,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+#socialmedia:
+#    twitter   : phlow
+#    facebook  : phlow.media
 
 
 #        ____  _
