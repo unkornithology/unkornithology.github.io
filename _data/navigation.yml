@@ -6,8 +6,8 @@
   url: "/info/"
   side: left
 
-- title: "People"
-  url: "/people/"
+- title: "Members"
+  url: "/members/"
   side: left
   
 - title: "Publications"

@@ -3,11 +3,11 @@ layout              : page-fullwidth
 title               : "Contact"
 meta_title          : " "
 subheadline         : " "
-teaser              : "This page will be updated soon."
+teaser              : " "
 permalink           : "/contact/"
 header:
    title: " "
    image_fullwidth: "aetna_sunset.jpg"
 ---
 
-For now, please refer to my profile page at the University of Kansas for information on how to contact me.
+This page is managed by Dr. Jacob C. Cooper, who has a permanenet (stable) email address of jccooper "at" uchicago "dot" edu.
