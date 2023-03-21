@@ -1,10 +1,13 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+meta_title          : " "
+subheadline         : " "
+teaser              : "This page will be updated soon."
 permalink           : "/contact/"
+header:
+   title: " "
+   image_fullwidth: "aetna_sunset.jpg"
 ---
 
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+For now, please refer to my profile page at the University of Kansas for information on how to contact me.
