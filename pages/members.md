@@ -39,7 +39,7 @@ Mélusine is broadly interested in conservation and biodiversity. Equally at hom
 <br><br>
 
 #### Sara Velásquez Restrepo
-Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling around her home country of Colombia. Her undergraduate thesis focused on studying ecological niche diversity in cotingas. Sara is currently pursuing a PhD at the Universidad EAFIT in Medellín.
+Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a PhD at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa.
 <br><br>
 	
 ## Other Members
