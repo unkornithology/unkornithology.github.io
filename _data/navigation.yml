@@ -9,6 +9,10 @@
 - title: "People"
   url: "/people/"
   side: left
+  
+- title: "Publications"
+  url: "/publications/"
+  side: left
 
 - title: Blog
   url: "/blog/"
