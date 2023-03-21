@@ -6,7 +6,6 @@
 #
 layout: frontpage
 header:
-  title: Dr. Jacob C. Cooper
   image_fullwidth: aetna_sunset.jpg
 widget1:
   title: "Web page under construction."
