@@ -27,7 +27,7 @@ author: jcc
 #
 url: 'https://jacobccooper.github.io'
 # remove baseurl - this kept "breaking" the site
-# baseurl: '/home'
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -50,6 +50,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-pdf-embed
 
 
 #       ____              _             __  _

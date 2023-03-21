@@ -12,4 +12,4 @@ header:
 
 ## My CV
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Cooper J. C., Curriculum Vitae.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Cooper-Curriculum-Vitae.pdf" width="1000" height="1000" type="application/pdf"></object>
