@@ -42,7 +42,7 @@ Mélusine is broadly interested in conservation and biodiversity. Equally at hom
 Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a PhD at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa.
 <br><br>
 	
-## Other Members
+## Other Members   {#other-members}
 	
 <img align="left" src="/images/gracie.jpg" alt="gracie" width="140" hspace="10"/>
 #### Gracie Lou Cooper

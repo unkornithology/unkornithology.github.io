@@ -3,6 +3,9 @@ title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
 permalink: /redirect-page/
-redirect_to:  "http://phlow.github.io/feeling-responsive/info/"
+redirect_to:  "https://jacobccooper.com"
 ---
-This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
+
+It looks like the page you are searching for doesn't exist... Redirecting you to the home site!
+
+Redirect page programmed by Phlow, based on code by [Kanishk](http://codingtips.kanishkkunal.in/about/).
