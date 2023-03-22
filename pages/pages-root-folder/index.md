@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: aetna_sunset.jpg
 widget1:
-  title: "Web page under construction."
-  url: 'http://jacobccooper.github.io'
-  image: widget-1-302x182.jpg
-  text: 'Website currently under construction.'
+  title: "Publications"
+  url: '/publications/'
+  image: pub-widget-302x182-ratio.png
+  text: 'Complete bibliography with PDFs'
 widget2:
   title: "Web page under construction."
   url: 'http://jacobccooper.github.io'
