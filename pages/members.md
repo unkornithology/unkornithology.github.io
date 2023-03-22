@@ -39,6 +39,7 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her undergraduate thesis focused on testing the predictions of ecological niche models in Costa Rica. Mélusine recently completed a Masters at Imperial College, Silwood Park.
 <br><br>
 
+<img align="left" src="/images/sara.jpg" alt="sara" width="140" hspace="10"/>
 #### Sara Velásquez Restrepo
 Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa.
 <br><br>
