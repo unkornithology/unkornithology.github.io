@@ -18,32 +18,31 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<p style='text-align: justify;'>
-The following publication list is limited to those that have been authored or co-authored by Jacob C. Cooper; other papers by other folks need to be sought from academic websites or directly from the authors. **Bolded** authors are mentioned on the [Members]({{ site.url }}{{ site.baseurl }}/members/) page. To help increase the accessibility of our science, we strive to publish as many papers as possible in Open Access journals.</p>
+The following publication list is limited to those that have been authored or co-authored by Jacob C. Cooper; other papers by other folks need to be sought from academic websites or directly from the authors. **Bolded** authors are mentioned on the [Members]({{ site.url }}{{ site.baseurl }}/members/) page. To help increase the accessibility of our science, we strive to publish as many papers as possible in <span style="color:blue">**Open Access**</span> journals to make them freely available.
 
 ## Peer Reviewed Pubs
 
-22. **Velde, Mélusine F.**,[^3] Elizabeth M. Besozzi, Billi A. Krochuk, Kate M. Henderson, Brian R. Tsuru, Sara Velásquez Restrepo, Holly M. Garrod & **Jacob C. Cooper.**[^3] *Accepted*. What constitutes a community? A co-occurrence exploration of the Costa Rican avifauna. *Neotropical Biodiversity*.
+22. **Velde, Mélusine F.**,[^3] Elizabeth M. Besozzi, Billi A. Krochuk, Kate M. Henderson, Brian R. Tsuru, Sara Velásquez Restrepo, Holly M. Garrod & **Jacob C. Cooper.**[^3] *Accepted*. What constitutes a community? A co-occurrence exploration of the Costa Rican avifauna. *Neotropical Biodiversity*. <span style="color:blue">**Open Access**</span>
     
-21. Eliason, Chad, **Jacob C. Cooper**, Shannon J. Hackett, Erica Zahnle, Tatiana Pequeño Saco, J. Dylan Maddox, Taylor Hains, Mark E. Hauber & John M. Bates. 2023. Interspecific hybridization explains rapid gorget color divergence in *Heliodoxa* hummingbirds (Aves:  Trochilidae). *Royal Society Open Science* **10**(3):221603. doi: [10.1098/rsos.221603](https://doi.org/10.1098/rsos.221603) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rsos.221603.pdf %})
+21. Eliason, Chad, **Jacob C. Cooper**, Shannon J. Hackett, Erica Zahnle, Tatiana Pequeño Saco, J. Dylan Maddox, Taylor Hains, Mark E. Hauber & John M. Bates. 2023. Interspecific hybridization explains rapid gorget color divergence in *Heliodoxa* hummingbirds (Aves:  Trochilidae). *Royal Society Open Science* **10**(3):221603. doi: [10.1098/rsos.221603](https://doi.org/10.1098/rsos.221603) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rsos.221603.pdf %}) <span style="color:blue">**Open Access**</span>
 	
 20. **Cooper, Jacob C.** 2022. Mountain Sawwing (*Psalidoprocne fuliginosa*), version 2.0. In *Birds of the World* (Paul G. Rodewald, Ed.). Cornell Lab of Ornithology, Ithaca, NY, USA. doi: [10.2173/bow.mousaw1.02](https://doi.org/10.2173/bow.mousaw1.02) (Encylopedia article, no PDF available).
 	
-19. **Cooper, Jacob C.**, Nicholas M. A. Crouch, Adam W. Ferguson & John M. Bates. 2022. Climatic refugia and reduced extinction correlate with underdispersion in mammals and birds in Africa. *Ecology and Evolution* **12**(3):e8752. doi: [10.1002/ece3.8752](https://doi.org/10.1002/ece3.8752) [PDF HERE]({{ site.baseurl }}{% link /pdfs/2022-climatic-refugia.pdf %})
+19. **Cooper, Jacob C.**, Nicholas M. A. Crouch, Adam W. Ferguson & John M. Bates. 2022. Climatic refugia and reduced extinction correlate with underdispersion in mammals and birds in Africa. *Ecology and Evolution* **12**(3):e8752. doi: [10.1002/ece3.8752](https://doi.org/10.1002/ece3.8752) [PDF HERE]({{ site.baseurl }}{% link /pdfs/2022-climatic-refugia.pdf %}) <span style="color:blue">**Open Access**</span>
 	
-18. Tobias, Joseph A. ... **Cooper, Jacob C.** ... & Matthias Schleuning.[^2] 2022. AVONET: morphological, ecological, and geographical data for all birds. *Ecology Letters* **25**(3):581-597. doi: [10.1111/ele.13898](https://doi.org/10.1111/ele.13898) [PDF HERE]({{ site.baseurl }}{% link /pdfs/avonet.pdf %})
+18. Tobias, Joseph A. ... **Cooper, Jacob C.** ... & Matthias Schleuning.[^2] 2022. AVONET: morphological, ecological, and geographical data for all birds. *Ecology Letters* **25**(3):581-597. doi: [10.1111/ele.13898](https://doi.org/10.1111/ele.13898) [PDF HERE]({{ site.baseurl }}{% link /pdfs/avonet.pdf %}) <span style="color:blue">**Open Access**</span>
 	
-17. **Cooper, Jacob C.** 2021. Hierarchical analyses of community biogeography in the Afromontane highlands. *Frontiers in Biogeography* **13.04**:e51310. doi: [10.21425/F5FBG51310](https://doi.org/10.21425/F5FBG51310) [PDF HERE]({{ site.baseurl }}{% link /pdfs/afromontane-hierarchical.pdf %})
+17. **Cooper, Jacob C.** 2021. Hierarchical analyses of community biogeography in the Afromontane highlands. *Frontiers in Biogeography* **13.04**:e51310. doi: [10.21425/F5FBG51310](https://doi.org/10.21425/F5FBG51310) [PDF HERE]({{ site.baseurl }}{% link /pdfs/afromontane-hierarchical.pdf %}) <span style="color:blue">**Open Access**</span>
 	
-16. **Cooper, Jacob C.**, J. Dylan Maddox, Kellie McKague & John M. Bates. 2021. Multiple lines of evidence indicate ongoing allopatric and parapatric diversification in an Afromontane sunbird (*Cinnyris reichenowi*). *Ornithology* (formerly *The Auk*) **138**:ukaa081. doi:[10.1093/ornithology/ukaa081](https://doi.org/10.1093/ornithology/ukaa081) [PDF HERE]({{ site.baseurl }}{% link /pdfs/ukaa081.pdf %})
+16. **Cooper, Jacob C.**, J. Dylan Maddox, Kellie McKague & John M. Bates. 2021. Multiple lines of evidence indicate ongoing allopatric and parapatric diversification in an Afromontane sunbird (*Cinnyris reichenowi*). *Ornithology* (formerly *The Auk*) **138**:ukaa081. doi:[10.1093/ornithology/ukaa081](https://doi.org/10.1093/ornithology/ukaa081) [PDF HERE]({{ site.baseurl }}{% link /pdfs/ukaa081.pdf %}) <span style="color:blue">**Free Access**</span>
 	
-15. Caparucho, João Marcos Guimarães, Mary Ashley, Brian Tsuru, **Jacob C. Cooper** & John M. Bates. 2020. Dispersal ability correltes with range size in Amazonian habitat restricted birds. *Proceedings of the Royal Society B* **287**(1939):20201450. doi: [10.1098/rspb.2020.1450](https://doi.org/10.1098/rspb.2020.1450) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rspb.2020.1450.pdf %})
+15. Caparucho, João Marcos Guimarães, Mary Ashley, Brian Tsuru, **Jacob C. Cooper** & John M. Bates. 2020. Dispersal ability correltes with range size in Amazonian habitat restricted birds. *Proceedings of the Royal Society B* **287**(1939):20201450. doi: [10.1098/rspb.2020.1450](https://doi.org/10.1098/rspb.2020.1450) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rspb.2020.1450.pdf %}) *Appears to be free access to manuscript*
 
 14. Hruska, Jack P., **Jacob C. Cooper** & Mark B. Robbins. 2020. First record of Mexican Whip-poor-will *Antrostomus arizonae* in Nicaragua. *Cotinga* **42**:56-57. [PDF HERE]({{ site.baseurl }}{% link /pdfs/Cotinga42_13Hruska.pdf %})
     
-13. Owens, Hannah L., Vivian Ribiero, Erin Saupe, Marlon E. Cobos, Peter Hosner, **Jacob C. Cooper**, Abdallah Samy, Vijay Barve, Narayani Barve, Carlos Muñoz & A. Townsend Peterson. 2020. Acknowledging uncertainty in evolutionary reconstructions of ecological niches. *Ecology and Evolution* **10**(14):6967-6977. doi: [10.1002/ece3.6359](https://doi.org/10.1002/ece3.6359) [PDF HERE]({{ site.baseurl }}{% link /pdfs/2020-acknowledging.pdf %})
+13. Owens, Hannah L., Vivian Ribiero, Erin Saupe, Marlon E. Cobos, Peter Hosner, **Jacob C. Cooper**, Abdallah Samy, Vijay Barve, Narayani Barve, Carlos Muñoz & A. Townsend Peterson. 2020. Acknowledging uncertainty in evolutionary reconstructions of ecological niches. *Ecology and Evolution* **10**(14):6967-6977. doi: [10.1002/ece3.6359](https://doi.org/10.1002/ece3.6359) [PDF HERE]({{ site.baseurl }}{% link /pdfs/2020-acknowledging.pdf %}) <span style="color:blue">**Open Access**</span>
 	
-12. Voight, Janet R., **Jacob C. Cooper** & Raymond W. Lee. 2020. Stable isotopic evidence of misotrophy in xylophagids, deep-sea wood-boring bivalves. *Frontiers in Marine Science* **7**:50. doi:[10.3389/fmars.2020.00050](https://doi.org/10.3389/fmars.2020.00050) [PDF HERE]({{ site.baseurl }}{% link /pdfs/fmars-07-00050.pdf %})
+12. Voight, Janet R., **Jacob C. Cooper** & Raymond W. Lee. 2020. Stable isotopic evidence of misotrophy in xylophagids, deep-sea wood-boring bivalves. *Frontiers in Marine Science* **7**:50. doi:[10.3389/fmars.2020.00050](https://doi.org/10.3389/fmars.2020.00050) [PDF HERE]({{ site.baseurl }}{% link /pdfs/fmars-07-00050.pdf %}) <span style="color:blue">**Open Access**</span>
 	
 11. **Cooper, Jacob C.** 2018. Niche theory and its relation to morphology and phenotype in geographic space: a case study in woodpeckers (Picidae). *Journal of Avian Biology* e01771. doi:[10.1111/jav.01771](https://doi.org/10.1111/jav.01771) [PDF HERE]({{ site.baseurl }}{% link /pdfs/Cooper_2018_Journal_of_Avian_Biology.pdf %})
 	
@@ -51,9 +50,9 @@ The following publication list is limited to those that have been authored or co
 	
 9. **Cooper, Jacob C.** & Jorge Soberón. 2018. Creating individual accessible area hypotheses improves stacked species distribution model performance. *Global Ecology & Biogeography* **27**:156-165. doi:[10.1111/geb.12678](https://doi.org/10.1111/geb.12678) [PDF HERE]({{ site.baseurl }}{% link /pdfs/geb12678.pdf %})
 	
-8. Saupe, Erin E., Narayani Barve, Hannah L. Owens, **Jacob C. Cooper**, Peter Hosner & A. Townsend Peterson. 2018. Reconstructing ecological niche evolution when niches are incompletely characterized. *Systematic Biology* **67**:428-438. doi:[10.1093/sysbio/syx084](https://doi.org/10.1093/sysbio/syx084) [PDF HERE]({{ site.baseurl }}{% link /pdfs/saupe_reconstructing.pdf %})
+8. Saupe, Erin E., Narayani Barve, Hannah L. Owens, **Jacob C. Cooper**, Peter Hosner & A. Townsend Peterson. 2018. Reconstructing ecological niche evolution when niches are incompletely characterized. *Systematic Biology* **67**:428-438. doi:[10.1093/sysbio/syx084](https://doi.org/10.1093/sysbio/syx084) [PDF HERE]({{ site.baseurl }}{% link /pdfs/saupe_reconstructing.pdf %}) <span style="color:blue">**Free Access**</span>
 	
-7. Ingenloff, Kathryn, Christopher Hensz, Tashitso Anamza, Vijay Barve, Lindsay P. Campbell, **Jacob C. Cooper**, Ed Komp, Laura Jimenez, Karen Olson, Luis Osorio-Olvera, Hannah L. Owens, A. Townsend Peterson, Abdallah Samy, Marianna Simões & Jorge Soberón. 2017. Predictable invasion dynamics in American populations of the Eurasian Collared Dove *Streptopelia decaocto*. *Proceedings of the Royal Society B* **284**:20171157. doi:[10.1098/rspb.2017.1157](https://doi.org/10.1098/rspb.2017.1157) [PDF HERE]({{ site.baseurl }}{% link /pdfs/Streptopelia_procB_Ingenloff_et_al.pdf %})
+7. Ingenloff, Kathryn, Christopher Hensz, Tashitso Anamza, Vijay Barve, Lindsay P. Campbell, **Jacob C. Cooper**, Ed Komp, Laura Jimenez, Karen Olson, Luis Osorio-Olvera, Hannah L. Owens, A. Townsend Peterson, Abdallah Samy, Marianna Simões & Jorge Soberón. 2017. Predictable invasion dynamics in American populations of the Eurasian Collared Dove *Streptopelia decaocto*. *Proceedings of the Royal Society B* **284**:20171157. doi:[10.1098/rspb.2017.1157](https://doi.org/10.1098/rspb.2017.1157) [PDF HERE]({{ site.baseurl }}{% link /pdfs/Streptopelia_procB_Ingenloff_et_al.pdf %}) *Appears to be free access*
 	
 6. Brzeski, Kristin E., Jared D. Wolfe, **Jacob C. Cooper** & Luke L. Powell. 2016. Camera sighting of Congo Clawless Otter in the midst of rapid development on mainland Equatorial Guinea. *IUCN Otter Spec. Group Bulletin* **33**(2). [PDF HERE]({{ site.baseurl }}{% link /pdfs/Brzeski_et_al_2016EGotter.pdf %})
 	
@@ -75,9 +74,9 @@ The following publication list is limited to those that have been authored or co
 	
 ## Preprints
     
-2. **Velde, Mélusine F.**, **Jacob C. Cooper** & Holly M. Garrod. 2023. Testing the accuracy of species distribution models based on community science data. *bioRxiv*. doi: [10.1101/2023.01.13.523331](https://doi.org/10.1101/2023.01.13.523331)
+2. **Velde, Mélusine F.**, **Jacob C. Cooper** & Holly M. Garrod. 2023. Testing the accuracy of species distribution models based on community science data. *bioRxiv*. doi: [10.1101/2023.01.13.523331](https://doi.org/10.1101/2023.01.13.523331) **Open Access**
     
-1. **Cooper, Jacob C.** & Diego Barragán Díaz. 2022. Is niche divergence more likely in parapatry? A test in *Sclerurus mexicanus* sensu lato (Aves:  Furnariidae). bioRxiv. doi: [10.1101/2022.12.06.519370](https://doi.org/10.1101/2022.12.06.519370)
+1. **Cooper, Jacob C.** & Diego Barragán Díaz. 2022. Is niche divergence more likely in parapatry? A test in *Sclerurus mexicanus* sensu lato (Aves:  Furnariidae). bioRxiv. doi: [10.1101/2022.12.06.519370](https://doi.org/10.1101/2022.12.06.519370) **Open Access**
 	
 ## Articles
 	

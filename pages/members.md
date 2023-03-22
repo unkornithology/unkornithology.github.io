@@ -21,8 +21,9 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{: .text-justify}
 
+I'm not currently in a position to accept graduate students, but I am able to serve on committees and menter undergraduates. Please [email me]({{ site.url }}{{ site.baseurl }}/contact/) if you are interested in any of this [research]({{ site.url }}{{ site.baseurl }}/research/).
+	
 ## Current Folks   {#current-folks}
 
 <img align="left" src="/images/cooper.jpg" alt="cooper" width="140" hspace="10"/>
@@ -35,7 +36,7 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 ### Undergraduates
 	
 #### Mélusine Velde
-Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her undergraduate thesis focused on testing the predictions of ecological niche models in Costa Rica. Mélusine recently completed a masters at Imperial College, Silwood Park.
+Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her undergraduate thesis focused on testing the predictions of ecological niche models in Costa Rica. Mélusine recently completed a Masters at Imperial College, Silwood Park.
 <br><br>
 
 #### Sara Velásquez Restrepo

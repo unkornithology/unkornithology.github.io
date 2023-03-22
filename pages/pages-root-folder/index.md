@@ -7,19 +7,19 @@
 layout: frontpage
 header:
   image_fullwidth: aetna_sunset.jpg
-widget1:
+widget2:
   title: "Publications"
   url: '/publications/'
   image: pub-widget-302x182-ratio.png
   text: 'Complete bibliography with PDFs'
 widget2:
-  title: "Web page under construction."
-  url: 'http://jacobccooper.github.io'
+  title: "Research"
+  url: '/research/'
   image: widget-1-302x182.jpg
   text: 'Website currently under construction.'
 widget3:
-  title: "Web page under construction."
-  url: 'http://jacobccooper.github.io'
+  title: "Members"
+  url: '/members/'
   image: widget-1-302x182.jpg
   text: 'Website currently under construction.'
 #
