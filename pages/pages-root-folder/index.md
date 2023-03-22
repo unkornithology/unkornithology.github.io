@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: aetna_sunset.jpg
-widget2:
+widget1:
   title: "Publications"
   url: '/publications/'
   image: pub-widget-302x182-ratio.png
@@ -15,13 +15,13 @@ widget2:
 widget2:
   title: "Research"
   url: '/research/'
-  image: widget-1-302x182.jpg
-  text: 'Website currently under construction.'
+  image: afec.png
+  text: 'Research topics and projects'
 widget3:
   title: "Members"
   url: '/members/'
-  image: widget-1-302x182.jpg
-  text: 'Website currently under construction.'
+  image: widget3.jpg
+  text: 'Dr. Cooper and affiliated researchers'
 #
 # Use the call for action to show a button on the frontpage
 #
