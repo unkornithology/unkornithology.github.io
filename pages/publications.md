@@ -36,7 +36,7 @@ The following publication list is limited to those that have been authored or co
 	
 16. **Cooper, Jacob C.**, J. Dylan Maddox, Kellie McKague & John M. Bates. 2021. Multiple lines of evidence indicate ongoing allopatric and parapatric diversification in an Afromontane sunbird (*Cinnyris reichenowi*). *Ornithology* (formerly *The Auk*) **138**:ukaa081. doi:[10.1093/ornithology/ukaa081](https://doi.org/10.1093/ornithology/ukaa081) [PDF HERE]({{ site.baseurl }}{% link /pdfs/ukaa081.pdf %}) <span style="color:blue">**Free Access**</span>
 	
-15. Caparucho, João Marcos Guimarães, Mary Ashley, Brian Tsuru, **Jacob C. Cooper** & John M. Bates. 2020. Dispersal ability correltes with range size in Amazonian habitat restricted birds. *Proceedings of the Royal Society B* **287**(1939):20201450. doi: [10.1098/rspb.2020.1450](https://doi.org/10.1098/rspb.2020.1450) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rspb.2020.1450.pdf %}) *Appears to be free access to manuscript*
+15. Caparucho, João Marcos Guimarães, Mary Ashley, Brian Tsuru, **Jacob C. Cooper** & John M. Bates. 2020. Dispersal ability correlates with range size in Amazonian habitat restricted birds. *Proceedings of the Royal Society B* **287**(1939):20201450. doi: [10.1098/rspb.2020.1450](https://doi.org/10.1098/rspb.2020.1450) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rspb.2020.1450.pdf %}) *Appears to be free access to manuscript*
 
 14. Hruska, Jack P., **Jacob C. Cooper** & Mark B. Robbins. 2020. First record of Mexican Whip-poor-will *Antrostomus arizonae* in Nicaragua. *Cotinga* **42**:56-57. [PDF HERE]({{ site.baseurl }}{% link /pdfs/Cotinga42_13Hruska.pdf %})
     
@@ -70,7 +70,11 @@ The following publication list is limited to those that have been authored or co
 [^2]: Too many authors to list succinctly, please see article directly.
 [^1]: One taxon (*Hieraaetus wahlbergi*) misidentified; see correction.
 	
-# Non-reviewed Manuscripts
+# Other Manuscripts
+	
+## Dissertations and Theses
+	
+1. **Cooper, Jacob C.** 2021. Biogeographic and Ecologic Drivers of Avian Diversity. Doctoral Dissertation for the Committee on Evolutionary Biology, University of Chicago. doi: [10.6082/uchicago.3379](https://doi.org/10.6082/uchicago.3379) <span style="color:blue">**Open Access**</span>
 	
 ## Preprints
     
