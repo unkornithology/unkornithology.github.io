@@ -30,6 +30,11 @@ I'm not currently in a position to accept graduate students, but I am able to se
 #### Jacob C. Cooper (IRACDA Postdoctoral Fellow)
 Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. At the present time, he is a postdoctoral fellow at the University of Kansas, an adjunct lecturer at Haskell Indian Nations University, a Research Associate of the Field Museum in Chicago, and an affiliate of the Biodiversity Initiate (which he helped start). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/).
 <br><br>
+
+### Undergrads
+	
+#### Josh G. Bell
+Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a K-INBRE Summer Scholar grant in 2023 to study the distribution of Chihuahuan Meadowlarks *Sturnella lilianae* in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
 	
 ## Past Folks   {#past-folks}
 
