@@ -1,14 +1,14 @@
 - menu_name: "Institutions"
 
+- name: "University of Nebraska at Kearney"
+  url: "https://www.unk.edu/index.php"
+  class: "unk-edu"
+  title: "University of Nebraska at Kearney"
+
 - name: "University of Kansas"
   url: "https://biodiversity.ku.edu/"
   class: "ku-bi"
   title: "University of Kansas"
-
-- name: "Haskell Indian Nations University"
-  url: "https://www.haskell.edu/"
-  class: "hinu-edu"
-  title: "Haskell Indian Nations University"
 
 - name: "Field Museum Division of Birds"
   url: "https://birds.fieldmuseum.org/"
