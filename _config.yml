@@ -14,7 +14,7 @@ title: 'JC Cooper'
 slogan: 'Studying the ecology and evolution of life in the Great Plains and beyond.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Dr. Jacob C. Cooper is an IRACDA postdoctoral fellow at the University of Kansas and Haskell Indian Nations University.'
+description: 'University of Nebraska at Kearney research group studying the ecology, evolution, and biogeography of life on earth.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Jacob C. Cooper using <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> from <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p>'
