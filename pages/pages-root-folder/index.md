@@ -21,7 +21,7 @@ widget3:
   title: "Members"
   url: '/members/'
   image: widget3.jpg
-  text: 'Dr. Cooper and affiliated researchers'
+  text: 'Affiliated Researchers & Dr. Cooper'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://biodiversity.ku.edu/
+  url: https://www.unk.edu/academics/biology/index.php
   text: More information about where I work ›
   style: alert
 permalink: /index.html
