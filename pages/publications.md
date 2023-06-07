@@ -73,11 +73,7 @@ The following publication list is limited to those that have been authored or co
 [^1]: One taxon (*Hieraaetus wahlbergi*) misidentified; see correction.
 	
 # Other Manuscripts
-	
-## Dissertations and Theses
-	
-1. **Cooper, Jacob C.** 2021. Biogeographic and Ecologic Drivers of Avian Diversity. Doctoral Dissertation for the Committee on Evolutionary Biology, University of Chicago. doi: [10.6082/uchicago.3379](https://doi.org/10.6082/uchicago.3379) <span style="color:blue">**Open Access**</span>
-	
+		
 ## Preprints
     
 2. **Velde, Mélusine F.**, **Jacob C. Cooper** & Holly M. Garrod. 2023. Testing the accuracy of species distribution models based on community science data. *bioRxiv*. doi: [10.1101/2023.01.13.523331](https://doi.org/10.1101/2023.01.13.523331) <span style="color:blue">**Open Access**</span>
@@ -89,3 +85,7 @@ The following publication list is limited to those that have been authored or co
 2. **Cooper, Jacob C.** 2020. Depredation of Golden-crowned Kinglet (*Regulus satrapa*) by a presumed American Bullfrog (*Lithobates catesbeianus*) in an urban park. *Meadowlark* **29.4**:10-11. [PDF HERE]({{ site.baseurl }}{% link /pdfs/kinglet.pdf %})
 	
 1. **Cooper, Jacob C.** 2017. Book review of *Why Birds Matter* edited by Çağan Hakkı Şekercioğlu, Daniel G. Wenny & Christopher J. Whelan. *Quarterly Review of Biology* **92**:464-465. doi:[10.1086/694954](https://doi.org/10.1086/694954) [PDF HERE]({{ site.baseurl }}{% link /pdfs/whybird.pdf %})
+	
+## Dissertations and Theses
+	
+1. **Cooper, Jacob C.** 2021. Biogeographic and Ecologic Drivers of Avian Diversity. Doctoral Dissertation for the Committee on Evolutionary Biology, University of Chicago. doi: [10.6082/uchicago.3379](https://doi.org/10.6082/uchicago.3379) <span style="color:blue">**Open Access**</span>
