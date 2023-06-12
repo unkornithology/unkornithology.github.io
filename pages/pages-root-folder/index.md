@@ -35,7 +35,7 @@ widget3:
 #
 callforaction:
   url: https://www.unk.edu/academics/biology/index.php
-  text: More information about where I work ›
+  text: More information about the University of Nebraska at Kearney ›
   style: alert
 permalink: /index.html
 #
