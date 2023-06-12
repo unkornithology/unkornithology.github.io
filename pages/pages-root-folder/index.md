@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: aetna_sunset.jpg
+  title: "Cooper Lab @ UNK"
 widget1:
   title: "Publications"
   url: '/publications/'
