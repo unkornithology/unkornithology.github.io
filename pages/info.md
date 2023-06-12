@@ -9,7 +9,7 @@ header:
     image_fullwidth: "antarctica.jpg"
 ---
 
-We do research on the ecology and evolution of live on Earth, with an emphasis on spatial ecology and biogeography. Our work predominately involves birds, but we use methods that are easily translatable to other taxonomic groups.
+We do research on the ecology and evolution of live on Earth, with an emphasis on spatial ecology and biogeography. Our work predominately involves birds, but we use methods that are easily translatable to other taxonomic groups. Our work takes place all over the world, with an emphasis on the Great Plains and Central Africa. 
 
 ## Site Information
 
