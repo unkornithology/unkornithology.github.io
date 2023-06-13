@@ -26,24 +26,26 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #004D86; // Changed to UNK blue : #334D5C; // dark turquoise
-$ci-2               : #004D86; // Changed to UNK blue: #45B29D; // turquoise
+$ci-1               : #334D5C; // dark turquoise
+$ci-2               : #45B29D; // turquoise
 $ci-3               : #E4A115; // Changed to UNK Gold: #EFC94C; // yellow
-$ci-4               : #E4A115; // Changed to UNK Gold: #E27A3F; // orange
+$ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
+$unk-b              : #004D86; // UNK blue
+$unk-g              : #E4A115; // Changed to UNK Gold
 
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-1;
-$secondary-color    : $ci-6;
+$primary-color      : $unk-b;
+$secondary-color    : $unk-g;
 $alert-color        : $ci-5;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
-$info-color         : $ci-1;
+$info-color         : $unk-b;
 
 
 
@@ -83,24 +85,24 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $unk-b;
+$topbar-dropdown-link-bg-hover: $unk-g;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $unk-g; // Active Navigation Link
+$topbar-link-bg-hover: $unk-g;
+$topbar-link-bg-active-hover: $unk-b;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $unk-g; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $unk-b;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
+$topbar-menu-link-color-toggled: $unk-b;
+$topbar-menu-icon-color-toggled: $unk-b;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $unk-g;
+$topbar-menu-icon-color-toggled: $unk-g;
 
 
 
@@ -109,7 +111,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg          : $grey-8;
 $footer-color       : #fff;
-$footer-link-color  : $ci-6;
+$footer-link-color  : $unk-g;
 
 
 $subfooter-bg       : $grey-13;
