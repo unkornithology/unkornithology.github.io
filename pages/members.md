@@ -34,7 +34,8 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 --------
 
 ### Undergrads
-	
+
+<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
 #### Josh G. Bell
 Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of Chihuahuan Meadowlarks *Sturnella lilianae* in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
 	
