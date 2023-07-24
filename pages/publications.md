@@ -22,6 +22,8 @@ The following publication list is limited to those that have been authored or co
 
 ## Peer Reviewed Pubs
 
+24. Cobos, Marlon E., Claudia Nuñez-Penichet, Peter D. Campbell, **Jacob C. Cooper**, Fernando Machado-Stredel, Narayani Barve, Uzma Ashraf, Abdelghafar A. Alkishe, Eric Ng'eno, Rahul Raveendran Nair, P. Joser Atauchi, Adeola Adeboje & A. Townsend Peterson. 2023. Effects of occurrence data density on conservation prioritization strategies. *Biological Conservation* **284**:110207. doi: [10.1016/j.biocon.2023.110207](https://doi.org/10.1016/j.biocon.2023.110207) [PDF HERE]({{ site.baseurl }}{% link /pdfs/biology-conservation_2023.pdf %})
+
 23. **Velde, Mélusine F.**,[^3] Elizabeth M. Besozzi, Billi A. Krochuk, Kate M. Henderson, Brian R. Tsuru, Sara Velásquez Restrepo, Holly M. Garrod & **Jacob C. Cooper.**[^3] 2023. What constitutes a community? A co-occurrence exploration of the Costa Rican avifauna. *Neotropical Biodiversity* **9**(1):64-75. doi: [10.1080/23766808.2023.2204549](https://doi.org/10.1080/23766808.2023.2204549) <span style="color:blue">**Open Access**</span>
     
 22. Eliason, Chad, **Jacob C. Cooper**, Shannon J. Hackett, Erica Zahnle, Tatiana Pequeño Saco, J. Dylan Maddox, Taylor Hains, Mark E. Hauber & John M. Bates. 2023. Interspecific hybridization explains rapid gorget color divergence in *Heliodoxa* hummingbirds (Aves:  Trochilidae). *Royal Society Open Science* **10**(3):221603. doi: [10.1098/rsos.221603](https://doi.org/10.1098/rsos.221603) [PDF HERE]({{ site.baseurl }}{% link /pdfs/rsos.221603.pdf %}) <span style="color:blue">**Open Access**</span>
