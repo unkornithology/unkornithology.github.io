@@ -33,12 +33,6 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 
 ### Undergrads
 
-#### M. B.
-M. B. is an undergraduate student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), looking for biodiversity research experience during their journey towards becoming a dermatologist. Using field surveys and computer modeling, M. B. will work to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
-
-#### K. D.
-K. D. is an undergraduate student interest in tropical coral reef systems. K. D. is working towards analyzing the extent of our spatial biodiversity knowledge in reef systems to identify areas of future research to improve our abilities to conserve and understand these fascinating ecosystems.
-
 --------
 	
 ## Past Folks   {#past-folks}
