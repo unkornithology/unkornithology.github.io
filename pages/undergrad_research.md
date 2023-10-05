@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Undergraduate Research Ideas"
+title: "Undergraduate Research Possibilities"
 subheadline: "Ecology & Evolutionary Biology"
 teaser: "Biodiversity research around the world"
 permalink: "/undergrad_research/"
