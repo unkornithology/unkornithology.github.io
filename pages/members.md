@@ -35,7 +35,7 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 
 <img align="left" src="/images/maddie_cropped_resize.jpeg" alt="maddie" width="140" hspace="10">
 #### Maddie Bengston
-Maddie is an undergraduate student who is an Honors Student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), where she has gained a wide range of class and research experiences during her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie works to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
+Maddie is an undergraduate who is an Honors Student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), where she has gained a wide range of class and research experiences during her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie works to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
 
 #### KD
 K. D. is an undergraduate student interest in tropical coral reef systems. K. D. is working towards analyzing the extent of our spatial biodiversity knowledge in reef systems to identify areas of future research to improve our abilities to conserve and understand these fascinating ecosystems.
