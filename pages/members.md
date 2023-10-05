@@ -35,25 +35,31 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 
 ### Undergrads
 
-<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
-#### Josh G. Bell
-Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of Chihuahuan Meadowlarks *Sturnella lilianae* in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
-	
+#### M. B.
+M. B. is an undergraduate student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), looking for biodiversity research experience during their journey towards becoming a dermatologist. Using field surveys and computer modeling, M. B. will work to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
+
+#### K. D.
+K. D. is an undergraduate 
+
 --------
 	
 ## Past Folks   {#past-folks}
 
 ### Undergraduates
-	
+
+<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
+#### Josh G. Bell
+Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
+
 #### Mélusine Velde
-Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her undergraduate thesis focused on testing the predictions of ecological niche models in Costa Rica. Mélusine recently completed a Masters at Imperial College, Silwood Park.
+Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her [undergraduate thesis](https://doi.org/10.1101/2023.01.13.523331) focused on testing the predictions of ecological niche models in Costa Rica. Mélusine recently completed a Masters at Imperial College, Silwood Park.
 <br><br>
 	
 --------
 
 <img align="left" src="/images/sara.jpg" alt="sara" width="140" hspace="10"/>
 #### Sara Velásquez Restrepo
-Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa.
+Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa. She was recently awarded a Fulbright Fellowship to pursue a PhD in the United States.
 <br><br>
 	
 --------
