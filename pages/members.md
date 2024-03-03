@@ -20,7 +20,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-I'm not currently in a position to accept graduate students, but I am able to serve on committees and menter undergraduates. Please [email me]({{ site.url }}{{ site.baseurl }}/contact/) if you are interested in any of this [research]({{ site.url }}{{ site.baseurl }}/research/).
+I'm not currently in a position to accept graduate students, but I am able to serve on committees and mentor undergraduates. Please [email me]({{ site.url }}{{ site.baseurl }}/contact/) if you are interested in any of this [research]({{ site.url }}{{ site.baseurl }}/research/).
 	
 ## Current Folks   {#current-folks}
 
