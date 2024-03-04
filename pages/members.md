@@ -37,6 +37,9 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 #### Maddie Bengston
 Maddie is an undergraduate who is an Honors Student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), where she has gained a wide range of class and research experiences during her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie works to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
 
+#### Darcey Lindsey
+Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely *Pipilo* towhees in the Nebraska Sandhills.
+
 --------
 	
 ## Past Folks   {#past-folks}
