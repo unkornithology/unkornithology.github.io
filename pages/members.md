@@ -25,8 +25,8 @@ I'm not currently in a position to accept graduate students, but I am able to se
 ## Current Folks   {#current-folks}
 
 <img align="left" src="/images/cooper.jpg" alt="cooper" width="140" hspace="10"/>
-#### Jacob C. Cooper (IRACDA Postdoctoral Fellow)
-Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is starting as an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) in July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
+#### Jacob C. Cooper (Assistant Professor)
+Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) since July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
 <br><br>
 	
 --------
@@ -38,7 +38,7 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 Maddie is an undergraduate who is an Honors Student and [URF Scholar at the University of Nebraska at Kearney](https://www.unk.edu/academics/undergraduate_research/undergraduate-research-fellows.php), where she has gained a wide range of class and research experiences during her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie works to improve our understanding of [Eastern Screech-Owl *Megascops asio*](https://en.wikipedia.org/wiki/Eastern_screech_owl) distributions within the state of Nebraska.
 
 #### Darcey Lindsey
-Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely *Pipilo* towhees in the Nebraska Sandhills.
+Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely [*Pipilo*](https://en.wikipedia.org/wiki/Pipilo) towhees in the Nebraska Sandhills.
 
 --------
 	
