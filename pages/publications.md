@@ -22,6 +22,8 @@ The following publication list is limited to those that have been authored or co
 
 ## Peer Reviewed Pubs
 
+25. **Cooper, Jacob C.** *Accepted*. Ecological niche divergence or ecological niche partitioning in a widespread Neotropical bird lineage.
+
 24. Cobos, Marlon E., Claudia Nuñez-Penichet, Peter D. Campbell, **Jacob C. Cooper**, Fernando Machado-Stredel, Narayani Barve, Uzma Ashraf, Abdelghafar A. Alkishe, Eric Ng'eno, Rahul Raveendran Nair, P. Joser Atauchi, Adeola Adeboje & A. Townsend Peterson. 2023. Effects of occurrence data density on conservation prioritization strategies. *Biological Conservation* **284**:110207. doi: [10.1016/j.biocon.2023.110207](https://doi.org/10.1016/j.biocon.2023.110207) [PDF HERE]({{ site.baseurl }}{% link /pdfs/biology-conservation_2023.pdf %})
 
 23. **Velde, Mélusine F.**,[^3] Elizabeth M. Besozzi, Billi A. Krochuk, Kate M. Henderson, Brian R. Tsuru, Sara Velásquez Restrepo, Holly M. Garrod & **Jacob C. Cooper.**[^3] 2023. What constitutes a community? A co-occurrence exploration of the Costa Rican avifauna. *Neotropical Biodiversity* **9**(1):64-75. doi: [10.1080/23766808.2023.2204549](https://doi.org/10.1080/23766808.2023.2204549) <span style="color:blue">**Open Access**</span>
@@ -79,7 +81,9 @@ The following publication list is limited to those that have been authored or co
 # Other Manuscripts
 		
 ## Preprints
-    
+
+3. **Cooper, Jacob C.** 2024. Ecological niche divergence or ecological niche partitioning in a widespread Neotropical bird lineage. doi: [10.1101/2024.01.18.576294](https://doi.org/10.1101/2024.01.18.576294) <span style="color:blue">**Open Access**</span>
+
 2. **Velde, Mélusine F.**, **Jacob C. Cooper** & Holly M. Garrod. 2023. Testing the accuracy of species distribution models based on community science data. *bioRxiv*. doi: [10.1101/2023.01.13.523331](https://doi.org/10.1101/2023.01.13.523331) <span style="color:blue">**Open Access**</span>
     
 1. **Cooper, Jacob C.** & Diego Barragán Díaz. 2022. Is niche divergence more likely in parapatry? A test in *Sclerurus mexicanus* sensu lato (Aves:  Furnariidae). bioRxiv. doi: [10.1101/2022.12.06.519370](https://doi.org/10.1101/2022.12.06.519370) <span style="color:blue">**Open Access**</span>
@@ -96,4 +100,6 @@ The following publication list is limited to those that have been authored or co
 	
 ## Dissertations and Theses
 	
-1. **Cooper, Jacob C.** 2021. Biogeographic and Ecologic Drivers of Avian Diversity. Doctoral Dissertation for the Committee on Evolutionary Biology, University of Chicago. doi: [10.6082/uchicago.3379](https://doi.org/10.6082/uchicago.3379) <span style="color:blue">**Open Access**</span>
+2. **Cooper, Jacob C.** 2021. Biogeographic and Ecologic Drivers of Avian Diversity. Doctoral Dissertation for the Committee on Evolutionary Biology, University of Chicago. doi: [10.6082/uchicago.3379](https://doi.org/10.6082/uchicago.3379) <span style="color:blue">**Open Access**</span>
+
+1. **Cooper, Jacob C.** 2016. Creating Individual Dispersal Hypotheses Improves Stacked Species Distribution Model Performance. Master's Thesis for the Department of Ecology & Evolutionary Biology, University of Kansas. [Stable url](http://hdl.handle.net/1808/21834) <span style="color:blue">**Open Access**</span>.
