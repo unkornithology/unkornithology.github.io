@@ -24,11 +24,13 @@ I'm not currently in a position to accept graduate students, but I am able to se
 	
 ## Current Folks   {#current-folks}
 
+### Principal Investigators
+
 <img align="left" src="/images/cooper.jpg" alt="cooper" width="140" hspace="10"/>
 #### Jacob C. Cooper (Assistant Professor)
 Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) since July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
 <br><br>
-	
+
 --------
 
 ### Undergrads
