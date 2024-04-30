@@ -21,7 +21,7 @@ image:
     title: ML241444421.png
     thumb: ML241444421_thumb.png
     homepage: ML241444421_thumb.png
-    caption: New publication in PeerJ. Image: Purple Martin in Utah, JC Cooper.
+    caption: Purple Martin in northern Utah
     caption_url: https://doi.org/10.7717/peerj.17345
 mediaplayer: true
 ---
