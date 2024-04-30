@@ -8,7 +8,6 @@ title: "New Cooper Lab publication in PeerJ!"
 teaser: "Species diverge genetically, but how do their niches diverge relative to each other?"
 categories:
   - general
-  - publications
 tags:
   - University of Nebraska at Kearney
   - publication
@@ -22,7 +21,7 @@ image:
     title: ML241444421.png
     thumb: ML241444421_thumb.png
     homepage: ML241444421_thumb.png
-    caption: New publication in PeerJ! Image: Purple Martin in Utah, JC Cooper.
+    caption: New publication in PeerJ. Image: Purple Martin in Utah, JC Cooper.
     caption_url: https://doi.org/10.7717/peerj.17345
 mediaplayer: true
 ---
