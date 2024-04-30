@@ -22,7 +22,7 @@ The following publication list is limited to those that have been authored or co
 
 ## Peer Reviewed Pubs
 
-25. **Cooper, Jacob C.** *Accepted*. Ecological niche divergence or ecological niche partitioning in a widespread Neotropical bird lineage.
+25. **Cooper, Jacob C.** 2024. Ecological niche divergence or ecological niche partitioning in a widespread Neotropical bird lineage. *PeerJ* **12**:e17345. doi: [10.7717/peerj.17345](https://doi.org/10.7717/peerj.17345) <span style="color:blue">**Open Access**</span>
 
 24. Cobos, Marlon E., Claudia Nuñez-Penichet, Peter D. Campbell, **Jacob C. Cooper**, Fernando Machado-Stredel, Narayani Barve, Uzma Ashraf, Abdelghafar A. Alkishe, Eric Ng'eno, Rahul Raveendran Nair, P. Joser Atauchi, Adeola Adeboje & A. Townsend Peterson. 2023. Effects of occurrence data density on conservation prioritization strategies. *Biological Conservation* **284**:110207. doi: [10.1016/j.biocon.2023.110207](https://doi.org/10.1016/j.biocon.2023.110207) [PDF HERE]({{ site.baseurl }}{% link /pdfs/biology-conservation_2023.pdf %})
 
