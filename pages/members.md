@@ -60,7 +60,7 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 
 ### Undergraduates
 
-<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
+<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="0"/>
 #### Josh G. Bell
 Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
 
