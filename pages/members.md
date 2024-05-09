@@ -31,6 +31,7 @@ I'm not currently in a position to accept graduate students, but I am able to se
 Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) since July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
 <br><br>
 
+<img align="left" src="/images/eidem.jpg" alt="eidem" width="140" hspace="10"/>
 #### Nate Eidem (Lecturer)
 A recent convert to collecting bird-related data, Nate is a geographer by trade. He is especially interested in the relationships between river basins and the people, flora, and fauna that inhabit them. Equally adept at ArcGIS and wrestling, Nate has had a varied career that leaves him uniquely capable to tackle biodiversity related research questions. Nate is a Lecturer at the [University of Nebraska at Kearney](https://www.unk.edu/).
 
