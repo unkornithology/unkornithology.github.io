@@ -41,6 +41,7 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 ### Graduate Students
 <br>
 
+<img align="left" src="/images/huryn.jpg" alt="huryn" width="140" hspace="10">
 #### Eugene Huryn
 
 Eugene Huryn is an incoming graduate student into the lab at UNK. Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/).
