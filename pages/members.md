@@ -25,6 +25,7 @@ I'm not currently in a position to accept graduate students, but I am able to se
 ## Current Folks   {#current-folks}
 
 ### Principal Investigators
+<br>
 
 <img align="left" src="/images/cooper.jpg" alt="cooper" width="140" hspace="10"/>
 #### Jacob C. Cooper (Assistant Professor)
@@ -38,6 +39,7 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 --------
 
 ### Graduate Students
+<br>
 
 #### Eugene Huryn
 
@@ -46,6 +48,7 @@ Eugene Huryn is an incoming graduate student into the lab at UNK. Eugene is broa
 --------
 
 ### Undergrads
+<br>
 
 <img align="left" src="/images/maddie_cropped_resize.jpeg" alt="maddie" width="140" hspace="10">
 #### Maddie Bengston
@@ -60,8 +63,9 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 ## Past Folks   {#past-folks}
 
 ### Undergraduates
+<br>
 
-<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="0"/>
+<img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
 #### Josh G. Bell
 Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
 
@@ -78,7 +82,8 @@ Sara is broadly interested in biodiversity and conservation, and enjoys birding 
 --------
 	
 ## Other Members   {#other-members}
-	
+<br>
+
 <img align="left" src="/images/gracie.jpg" alt="gracie" width="140" hspace="10"/>
 #### Gracie Lou Cooper
 Gracie is particularly interested in the temporal ecology of rabbits, squirrels, and opossums in her yard. She also studies physics related to spherical objects, particularly when these objects are thrown at high speed.
