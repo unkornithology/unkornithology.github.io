@@ -39,3 +39,7 @@ We study montane and lowland systems to understand how they do (or do not) promo
 ## Systematics
 	
 Genomic data, morphological data, and phenotypic data are all used in concert to better understand species' relationships and the evolutionary history of different regions. Most of this work is focusing on montane systems, where species ranges are fragmented by intervening low-elevation habitats. We have also used vocalizations and morphology to help inform on regional variation and population distributions.
+
+# General field biology
+
+We are constantly trying to get in the field to see what we can find. Check out our [significant sightings page]({{ site.url }}{{ site.baseurl }}/sig_findings/) to learn more!
