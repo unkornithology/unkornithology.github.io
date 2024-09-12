@@ -44,7 +44,7 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 <img align="left" src="/images/eugene.jpeg" alt="huryn" width="140" hspace="10">
 #### Eugene Huryn
 
-Eugene Huryn is an incoming graduate student into the lab at UNK. Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/).
+Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/).
 
 --------
 
@@ -55,7 +55,11 @@ Eugene Huryn is an incoming graduate student into the lab at UNK. Eugene is broa
 Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely [*Pipilo*](https://en.wikipedia.org/wiki/Pipilo) towhees in the Nebraska Sandhills.
 
 #### Daniel Flint
-Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology, he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
+Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
+
+### Mike Roffman
+
+Interested in historical dynamics of birds, Mike will be working with folks at the UNK library to digitize historical ornithological information and make it available for public use. He will use these data in his research to help understand how the avian landscape of Nebraska has changed through time.
 
 --------
 --------
