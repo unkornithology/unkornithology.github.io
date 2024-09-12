@@ -57,7 +57,7 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 #### Daniel Flint
 Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
 
-### Mike Roffman
+#### Mike Roffman
 
 Interested in historical dynamics of birds, Mike will be working with folks at the UNK library to digitize historical ornithological information and make it available for public use. He will use these data in his research to help understand how the avian landscape of Nebraska has changed through time.
 
