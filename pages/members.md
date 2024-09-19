@@ -66,6 +66,7 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 #### Ajelina Mijak
 Ajelina comes to us from the aviation program to help with our data digitization project. Working closely with the Professor Laurinda Weisse and others at the UNK Library, her work will help make available original notes on the birds of Nebraska - some of which are over a century old! 
 
+<img align="left" src="/images/roffman.jpg" alt="roffman" width="140" hspace="10"/>
 #### Mike Roffman
 Interested in historical dynamics of birds, Mike will be working with folks at the UNK library to digitize historical ornithological information and make it available for public use. He will use these data in his research to help understand how the avian landscape of Nebraska has changed through time.
 
