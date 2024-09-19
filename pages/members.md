@@ -50,24 +50,31 @@ Eugene is broadly interested in species ecology and diversification, especially 
 
 ### Undergrads
 <br>
+Students are listed alphabetically.
+<br>
+#### Daniel Flint
+Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
+
+<img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
+#### Peggy Huss
+Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
 
 #### Darcey Lindsey
 Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely [*Pipilo*](https://en.wikipedia.org/wiki/Pipilo) towhees in the Nebraska Sandhills.
 
-#### Daniel Flint
-Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
+<img align="left" src="/images/ajelina.jpeg" alt="ajelina" width="140" hspace="10"/>
+#### Ajelina Mijak
+Ajelina comes to us from the aviation program to help with our data digitization project. Working closely with the Professor Laurinda Weisse and others at the UNK Library, her work will help make available original notes on the birds of Nebraska - some of which are over a century old! 
 
 #### Mike Roffman
 Interested in historical dynamics of birds, Mike will be working with folks at the UNK library to digitize historical ornithological information and make it available for public use. He will use these data in his research to help understand how the avian landscape of Nebraska has changed through time.
-
-<img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
-#### Peggy Huss
-Interested in genetics and understanding relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
 
 --------
 --------
 	
 ## Past Folks   {#past-folks}
+
+Folks are listed in reverse order of graduation or finishing research.
 
 ### Undergraduates
 <br>
