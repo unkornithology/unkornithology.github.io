@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: aetna_sunset.jpg
-  title: "Cooper Lab @ UNK"
+  title: "UNK Ornithology"
 widget1:
   title: "Publications"
   url: '/publications/'
@@ -22,7 +22,7 @@ widget3:
   title: "Members"
   url: '/members/'
   image: widget3.jpg
-  text: 'Affiliated Researchers & Dr. Cooper'
+  text: 'Who we are'
 #
 # Use the call for action to show a button on the frontpage
 #

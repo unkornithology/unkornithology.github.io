@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cooper Lab General Overview"
+title: "UNK Ornithology General Overview"
 subheadline: "Ecology and Evolution"
 teaser: "Research on biogeography, spatial ecology, and more"
 permalink: "/info/"
