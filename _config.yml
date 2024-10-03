@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Cooper Lab @ UNK'
+title: 'UNK Ornithology'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Studying the ecology and evolution of birds and other organisms in the Great Plains and beyond.'
@@ -25,7 +25,7 @@ author: jcc
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://jacobccooper.github.io'
+url: 'https://unkornithology.github.io'
 # remove baseurl - this kept "breaking" the site
 baseurl: ""
 

@@ -20,7 +20,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-The following is a list of potential projects for collaboration for undergraduate students. I'm always open to developing new projects as well. These are general topics I hope to develop and work on through time.
+The following is a list of potential projects for collaboration for undergraduate students. We are also open to other avenues of research, so feel free to contact us.
 
 # Conservation
 

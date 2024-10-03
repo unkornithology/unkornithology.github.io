@@ -27,6 +27,10 @@ I'm not currently in a position to accept graduate students, but I am able to se
 ### Principal Investigators
 <br>
 
+#### Letty Reichart (Professor, co-chair of Biology)
+Originally from the green hills of Pennsylvania, Letty pursued her love of birds and biology across the continent, studying the breeding systems of Ruddy Ducks <i>Oxyura jamaicensis</i> in the prairie potholes of the Canadian prairies. After finishing her PhD, Letty came to the [University of Nebraska at Kearney](https://www.unk.edu/), where she enjoys teaching and working with undergraduate students, as well as being involved with the local community. Letty is also extremely involved in the [Wilson Ornithological Society](https://wilsonsociety.org/), through which she helps enable research on a transcontinental scale. [Click here to learn more about Letty.](https://www.unk.edu/academics/biology/faculty/letitia_reichart.php)
+<br><br>
+
 <img align="left" src="/images/cooper.jpg" alt="cooper" width="140" hspace="10"/>
 #### Jacob C. Cooper (Assistant Professor)
 Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) since July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
@@ -34,7 +38,7 @@ Growing up in western Colorado, Jacob was fascinated by the diversity of birds i
 
 <img align="left" src="/images/eidem.jpg" alt="eidem" width="140" hspace="10"/>
 #### Nate Eidem (Lecturer)
-A recent convert to collecting bird-related data, Nate is a geographer by trade. He is especially interested in the relationships between river basins and the people, flora, and fauna that inhabit them. Equally adept at ArcGIS and wrestling, Nate has had a varied career that leaves him uniquely capable to tackle biodiversity related research questions. Nate is a Lecturer at the [University of Nebraska at Kearney](https://www.unk.edu/).
+A recent convert to collecting bird-related data, Nate is a geographer by trade. He is especially interested in the relationships between river basins and the people, flora, and fauna that inhabit them. Equally adept at ArcGIS and wrestling, Nate has had a varied career that leaves him uniquely capable to tackle biodiversity related research questions. Nate is a Lecturer at the [University of Nebraska at Kearney](https://www.unk.edu/). [Click here to learn more about Nate.](https://www.unk.edu/academics/biology/faculty/nate_eidem.php)
 
 --------
 
@@ -43,8 +47,12 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 
 <img align="left" src="/images/eugene.jpeg" alt="huryn" width="140" hspace="10">
 #### Eugene Huryn
-
 Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/).
+<br><br>
+
+#### Cody McGregor
+Cody is broadly interested in ornithology in general, having worked from Texas to North Carolina, but he has returned back to his home of Buffalo County to better understand how landscape changes (name afforestation) are affecting the prairie bird communities he holds near and dear. (Spoiler alert - Eastern Red Cedar <i>Juniperus virginianus</i> appears to be bad for prairie birds). Cody is originally from Gibbon, Nebraska, and completed his undergraduate degree at the [University of Nebraska-Lincoln](https://www.unl.edu/).
+<br><br>
 
 --------
 
@@ -55,6 +63,13 @@ Students are listed alphabetically.
 #### Daniel Flint
 Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
 <br><br>
+
+#### HF
+
+Born and raised in central Nebraska, HF is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
+
+#### RH
+Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's current research is focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska. Her work will help us better understand the dynamics of these species in an isolated patch of habitat near the western edge of their distribution and shed light on how these small owls have adapted to urban and rural habitats.
 
 <img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
 #### Peggy Huss
@@ -86,22 +101,24 @@ Folks are listed in reverse order of graduation or finishing research.
 
 <img align="left" src="/images/maddie_cropped_resize.jpeg" alt="maddie" width="140" hspace="10">
 #### Maddie Bengston
-Maddie (UNK class of 2024) is known for her wide range of class and research experiences on her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie worked towards improving our understanding of nocturnal bird distributions within the state of Nebraska.
+Maddie (UNK class of 2024) is known for her wide range of class and research experiences on her journey towards becoming a dermatologist. Using field surveys and computer modeling, Maddie worked towards improving our understanding of nocturnal bird distributions within the state of Nebraska. Maddie was a URF scholar at UNK working with Dr. Jacob C. Cooper & Dr. Letty Reichart.
 <br><br>
 
 <img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
 #### Josh G. Bell
-Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/).
+Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/). Josh was advised by Dr. Jacob C. Cooper.
 <br><br>
 
 #### Mélusine Velde
-Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her [undergraduate thesis](https://doi.org/10.1101/2023.01.13.523331) focused on testing the predictions of ecological niche models in Costa Rica. Mélusine completed a Masters at Imperial College, Silwood Park, and currently works for the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) in the United Kingdom.
+Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her [undergraduate thesis](https://doi.org/10.1101/2023.01.13.523331) focused on testing the predictions of ecological niche models in Costa Rica. Mélusine completed a Masters at Imperial College, Silwood Park, and currently works for the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) in the United Kingdom. Mélusine was advised by Dr. John M. Bates and Jacob C. Cooper.
 <br><br>
 	
 <img align="left" src="/images/sara.jpg" alt="sara" width="140" hspace="10"/>
 #### Sara Velásquez Restrepo
-Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa. She was recently awarded a Fulbright Fellowship to pursue a PhD at Louisiana State University in the United States.
+Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis, advised by Jacob C. Cooper, was focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa. She was recently awarded a Fulbright Fellowship to pursue a PhD at Louisiana State University in the United States.
 <br><br>
+
+This list is not yet complete.
 	
 --------
 --------

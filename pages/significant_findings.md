@@ -20,7 +20,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab. 
+Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab.
 
 # 2024
 

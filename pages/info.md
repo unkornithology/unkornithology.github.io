@@ -15,7 +15,7 @@ We do research on the ecology and evolution of live on Earth, with an emphasis o
 
 ### Academics
 
-If you are interested in getting hands-on research experience as an undergrad and attending a vibrant, active university in a small town in one of the best migration hotspots in the world, then [University of Nebraska at Kearney](https://www.unk.edu){:target="_blank"} may be for you! 
+If you are interested in getting hands-on research experience as an undergrad and attending a vibrant, active university in a small town in one of the best migration hotspots in the world, then [University of Nebraska at Kearney](https://www.unk.edu){:target="_blank"} may be for you!
 
 ### Where we are
 
@@ -25,4 +25,4 @@ If you are interested in getting hands-on research experience as an undergrad an
 
 This website is based on "Feeling Responsive" by Phlow (links in the footer). This template uses icons from [Daniel Bruce](http://entypo.com/){:target="_blank"}{:rel="noopener noreferrer"}, stock images from [Unsplash](http://unsplash.com){:target="_blank"}{:rel="noopener noreferrer"}, and the programs [Foundation](http://foundation.zurb.com/){:target="_blank"}{:rel="noopener noreferrer"} and [Backstretch by Scott Robin](http://srobbin.com/jquery-plugins/backstretch/){:target="_blank"}{:rel="noopener noreferrer"}.
 
-I created logos for this web page in [Inkscape](https://inkscape.org/) using [Platagenet Cherokee](https://freefontsfamily.com/plantagenet-cherokee-font-free/), which is available for personal, non-commercial use, and available from other non-linked sites as well. The mini logo "ᏤᏏ" is an approximation of the pronounciation the initials "JC", the PI's initials, and (so far as JCC knows) does not correspond to any particular word or term.
+Jacob C. Cooper created logos for this web page in [Inkscape](https://inkscape.org/) using [Platagenet Cherokee](https://freefontsfamily.com/plantagenet-cherokee-font-free/), which is available for personal, non-commercial use, and available from other non-linked sites as well. The mini logo "ᏤᏏ" is an approximation of the pronounciation the initials "JC", one of the PI's initials, and (so far as JCC knows) does not correspond to any particular word or term.
