@@ -61,7 +61,7 @@ Intrigued by the dynamics of species' distributions near around his home in the 
 Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
 <br><br>
 
-#### Darcey Lindsey
+#### Darcey Taylor
 Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely [*Pipilo*](https://en.wikipedia.org/wiki/Pipilo) towhees in the Nebraska Sandhills.
 <br><br>
 
