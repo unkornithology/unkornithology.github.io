@@ -64,9 +64,10 @@ Students are listed alphabetically.
 Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
 <br><br>
 
+<img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
 #### HF
-
 Born and raised in central Nebraska, HF is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
+<br><br>
 
 #### RH
 Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's current research is focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska. Her work will help us better understand the dynamics of these species in an isolated patch of habitat near the western edge of their distribution and shed light on how these small owls have adapted to urban and rural habitats.
