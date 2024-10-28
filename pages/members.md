@@ -65,8 +65,8 @@ Intrigued by the dynamics of species' distributions near around his home in the 
 <br><br>
 
 <img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
-#### HF
-Born and raised in central Nebraska, HF is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
+#### Hailey Fuqua
+Born and raised in central Nebraska, Hailey is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
 <br><br>
 
 #### RH
