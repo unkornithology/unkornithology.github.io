@@ -60,9 +60,6 @@ Cody is broadly interested in ornithology in general, having worked from Texas t
 <br>
 Students are listed alphabetically.
 <br>
-#### Daniel Flint
-Intrigued by the dynamics of species' distributions near around his home in the Sandhills, Daniel will be working on niche ecology of birds that reach the edge of their range in Nebraska. New to ornithology (and still deciding on his future career path), he's working on honing his skills with photography and sound recording with the birds of the Great Plains.
-<br><br>
 
 <img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
 #### Hailey Fuqua
