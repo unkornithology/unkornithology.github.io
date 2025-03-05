@@ -75,17 +75,13 @@ Interested in genetics and understanding evolutionary relationships, Peggy will 
 <br><br>
 
 #### Darcey Taylor
-Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the contact zone between different populations of birds in the Great Plains, namely [*Pipilo*](https://en.wikipedia.org/wiki/Pipilo) towhees in the Nebraska Sandhills.
+Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the vocalizations of different populations of [Green Hylia *Hylia prasina*](https://en.wikipedia.org/wiki/Green_hylia) across Africa.
 <br><br>
 
 <img align="left" src="/images/ajelina.jpeg" alt="ajelina" width="140" hspace="10"/>
 #### Ajelina Mijak
 Ajelina comes to us from the aviation program to help with our data digitization project. Working closely with the Professor Laurinda Weisse and others at the UNK Library, her work will help make available original notes on the birds of Nebraska - some of which are over a century old! 
 <br><br>
-
-<img align="left" src="/images/roffman.jpg" alt="roffman" width="140" hspace="10"/>
-#### Mike Roffman
-Interested in historical dynamics of birds, Mike will be working with folks at the UNK library to digitize historical ornithological information and make it available for public use. He will use these data in his research to help understand how the avian landscape of Nebraska has changed through time.
 
 --------
 --------
@@ -96,6 +92,9 @@ Folks are listed in reverse order of graduation or finishing research.
 
 ### Undergraduates
 <br>
+	
+#### Mike Roffman
+Mike worked on digitizing historical data from throughout the state of Nebraska, specifically focusing on the birds of Dakota County.
 
 <img align="left" src="/images/maddie_cropped_resize.jpeg" alt="maddie" width="140" hspace="10">
 #### Maddie Bengston
@@ -104,7 +103,7 @@ Maddie (UNK class of 2024) is known for her wide range of class and research exp
 
 <img align="left" src="/images/josh_bell.jpeg" alt="josh" width="140" hspace="10"/>
 #### Josh G. Bell
-Josh is broadly interested in ecology and conservation, and blends his holistic views of nature with hands-on and theoretical research. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh is currently an undergrad at [Haskell Indian Nations University](https://www.haskell.edu/). Josh was advised by Dr. Jacob C. Cooper.
+Josh blended his holistic views of nature with hands-on and theoretical research while studying North American meadowlarks *Sturnella*. Josh was awarded a [K-INBRE Summer Scholar](https://www.k-inbre.org/) grant in 2023 to study the distribution of [Chihuahuan Meadowlarks *Sturnella lilianae*](https://en.wikipedia.org/wiki/Chihuahuan_meadowlark) in the grasslands of the southwestern United States. Josh attended [Haskell Indian Nations University](https://www.haskell.edu/) and was advised by Dr. Jacob C. Cooper.
 <br><br>
 
 #### Mélusine Velde
@@ -115,8 +114,6 @@ Mélusine is broadly interested in conservation and biodiversity. Equally at hom
 #### Sara Velásquez Restrepo
 Sara is broadly interested in biodiversity and conservation, and enjoys birding and traveling. Her undergraduate thesis, advised by Jacob C. Cooper, was focused on studying ecological niche diversity in cotingas in South America. Sara is currently pursuing a Masters at the Universidad EAFIT in Medellín working on methods to use environmental DNA to detect rare taxa. She was recently awarded a Fulbright Fellowship to pursue a PhD at Louisiana State University in the United States.
 <br><br>
-
-This list is not yet complete.
 	
 --------
 --------
