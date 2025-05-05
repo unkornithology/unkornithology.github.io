@@ -24,6 +24,7 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 # 2025
 
+1. [Blue-headed Vireo <i>Vireo solitarius</i]>](https://ebird.org/checklist/S233097121) - first county record for Hitchcock, Nebraska. (Jacob C. Cooper, Robin Harding, and others)
 1. [Barrow's Goldeneye <i>Bucephala islandica</i>](https://ebird.org/checklist/S215413168) - second county record for Buffalo, Nebraska; one of only a few records east of Lincoln County within Nebraska. (Cody McGregor)
 1. [Leucistic Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Eugene Huryn)
    
@@ -31,7 +32,7 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 1. [Long-tailed Duck <i>Clangula hyemalis</i>](https://ebird.org/checklist/S205532241) - second record for Buffalo, Nebraska. (Eugene Huryn, Cody McGregor)
 1. [Winter Wren <i>Troglodytes hiemalis</i>](https://ebird.org/checklist/S203404420) - first county record for Red Willow, Nebraska. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Keith Geluso)
-1. [Long-tailed Jaeger <i>Stercorarius longicaudus</i>](https://ebird.org/checklist/S198746894) - first county record for Sherman, Nebraska; one of only a few Nebraska state records. (Jacob C. Cooper, Eugene Huryn, Robin Harding)
+1. [Long-tailed Jaeger <i>Stercorarius longicaudus</i>](https://ebird.org/checklist/S198746894) - first county record for Sherman, Nebraska; thirteenth accepted state record at that time. (Jacob C. Cooper, Eugene Huryn, Robin Harding)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S196215738) - first county record for Dawson, Nebraska. (Mike Roffman)
 1. [Western Blue-gray Gnatcatcher <i>Polioptila caerulea</i> (<i>obscura</i> subspecies group)](https://ebird.org/checklist/S187165016) - first county record for Custer, Nebraska; one of the easternmost records in the state. (Jacob C. Cooper, Darcey Taylor, Nate Eidem)
 1. [Zabulon Skipper <i>Lon zabulon</i>](https://www.inaturalist.org/observations/218544472) - first county record for Howard, Nebraska. (Jacob C. Cooper)
