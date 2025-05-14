@@ -24,6 +24,7 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 # 2025
 
+1. [Glossy Ibis <i> Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for Buffalo, Nebraska. (Eugene A. Huryn, Cody McGregor)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S233097121) - first county record for Hitchcock, Nebraska. (Jacob C. Cooper, Robin Harding, and others)
 1. [Barrow's Goldeneye <i>Bucephala islandica</i>](https://ebird.org/checklist/S215413168) - second county record for Buffalo, Nebraska; one of only a few records east of Lincoln County within Nebraska. (Cody McGregor)
 1. [Leucistic Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Eugene Huryn)
