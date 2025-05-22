@@ -22,7 +22,7 @@ header:
 
 # Nebraska
 	
-Based in central Nebraska, we are consistently exploring the state and trying to learn more about different species in the region. We are specifically interested in species that are at the edge of their range or that come into contact with related taxa within this region (see more un Ecology and Evolution below). We are especially interested in closely related taxa that come into contact along the ribbons of habitat that are Nebraska's rivers and pine-covered ridges; [you can read more about Nebraska Contact Zones here]({{ site.url }}{{ site.baseurl }}/nebraska_contact_zones/).
+Based in central Nebraska, we are consistently exploring the state and trying to learn more about different species in the region. We are specifically interested in species that are at the edge of their range or that come into contact with related taxa within this region (see more un Ecology and Evolution below). We are especially interested in closely related taxa that come into contact along the ribbons of habitat that are Nebraska's rivers and pine-covered ridges; [you can read more about Nebraska Contact Zones here]({{ site.url }}{{ site.baseurl }}/contact_zones/).
 	
 We are constantly trying to get in the field to see what we can find. Check out our [significant sightings page]({{ site.url }}{{ site.baseurl }}/sig_findings/) to learn more!
 	
