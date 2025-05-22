@@ -61,13 +61,13 @@ Cody is broadly interested in ornithology in general, having worked from Texas t
 Students are listed alphabetically.
 <br>
 
+#### SB
+From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area.
+	
 <img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
 #### Hailey Fuqua
 Born and raised in central Nebraska, Hailey is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
 <br><br>
-
-#### RH
-Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's current research is focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska. Her work will help us better understand the dynamics of these species in an isolated patch of habitat near the western edge of their distribution and shed light on how these small owls have adapted to urban and rural habitats.
 
 <img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
 #### Peggy Huss
@@ -92,6 +92,9 @@ Folks are listed in reverse order of graduation or finishing research.
 
 ### Undergraduates
 <br>
+	
+#### RH
+Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's current research was focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska. Her work was designed to help us better understand the dynamics of these species in an isolated patch of habitat near the western edge of their distribution and shed light on how these small owls have adapted to urban and rural habitats.
 	
 #### Mike Roffman
 Mike worked on digitizing historical data from throughout the state of Nebraska, specifically focusing on the birds of Dakota County.

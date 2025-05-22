@@ -92,7 +92,7 @@ The following publication list is limited to those that have been authored or co
 	
 --------
 	
-## Articles
+## Articles & Editor Reviewed Manuscripts
 	
 2. **Cooper, Jacob C.** 2020. Depredation of Golden-crowned Kinglet (*Regulus satrapa*) by a presumed American Bullfrog (*Lithobates catesbeianus*) in an urban park. *Meadowlark* **29.4**:10-11. [PDF HERE]({{ site.baseurl }}{% link /pdfs/kinglet.pdf %})
 	
