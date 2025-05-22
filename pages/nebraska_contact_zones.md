@@ -21,15 +21,18 @@ header:
 
 # Overview
 
-The taxonomy here follows the eBird/Clements taxonomy and the AOS taxonomy.
+The taxonomy here follows the eBird/Clements taxonomy and the AOS taxonomy. All taxa are named as East-West pairs.
     
 # Little-to-no hybridization
 
-
+Several species come into contact in Nebraska that possess little-to-no hybridization within this region. More research is needed to understand the dynamics of these species when and where they come into contact.
     
 This section also includes species whose primary hybrid zones appear to be outside Nebraska.    
 
 ## *Contopus* pewees
+    
+The [Western Wood-Pewee *Contopus sordidulus*](https://birdsoftheworld.org/bow/species/wewpew/cur/introduction) and the [Eastern Wood-Pewee *Contopus virens*](https://birdsoftheworld.org/bow/species/eawpew/cur/introduction) are geographic replacements of each other across the North American continent.
+    
 ## *Sayornis* phoebes
 ## *Sialis* bluebirds
 ## Blue-gray Gnatcatcher *Polioptila caerulea*
