@@ -39,7 +39,7 @@ There are three species of *Sayornis* that occur within North America - two of t
     
 Work in Nebraska should focus on the dynamics of these species with respect to modern and historical distributions, as well as focusing on the habitats these species utilize. As Nebraska continues to become afforested, especially along watercourses, we predict that we will continue to see a westwards shift of 
     
-[^1]: Schukman, J. M., Atauchi, P. J., & Peterson, A. T. (2025). Geographic shifts of phoebe species (*Sayornis* spp.) in the central Great Plains of North America. *The Wilson Journal of Ornithology*, **137**(1):38–50. doi:[10.1080/15594491.2024.2444021](https://doi.org/10.1080/15594491.2024.2444021)
+[^saph1]: Schukman, J. M., Atauchi, P. J., & Peterson, A. T. (2025). Geographic shifts of phoebe species (*Sayornis* spp.) in the central Great Plains of North America. *The Wilson Journal of Ornithology*, **137**(1):38–50. doi:[10.1080/15594491.2024.2444021](https://doi.org/10.1080/15594491.2024.2444021)
 
 ## *Sialis* bluebirds
     
