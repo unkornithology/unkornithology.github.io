@@ -35,7 +35,7 @@ The [Western Wood-Pewee *Contopus sordidulus*](https://birdsoftheworld.org/bow/s
     
 ## *Sayornis* phoebes
     
-There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, [Say's Phoebe *Sayornis sayae*](https://birdsoftheworld.org/bow/species/saypho/cur/introduction) frequents farms, old buildings, rocky outcrops, and some other open areas. [Eastern Phoebe *Sayornis phoebe*](https://birdsoftheworld.org/bow/species/easpho/cur/introduction) is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x [Black *S. nigricans*](https://birdsoftheworld.org/bow/species/blkpho/cur/introduction) hybrids in the southwestern portion of the range[^1].
+There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, [Say's Phoebe *Sayornis sayae*](https://birdsoftheworld.org/bow/species/saypho/cur/introduction) frequents farms, old buildings, rocky outcrops, and some other open areas. [Eastern Phoebe *Sayornis phoebe*](https://birdsoftheworld.org/bow/species/easpho/cur/introduction) is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x [Black *S. nigricans*](https://birdsoftheworld.org/bow/species/blkpho/cur/introduction) hybrids in the southwestern portion of the range.[^saph1]
     
 Work in Nebraska should focus on the dynamics of these species with respect to modern and historical distributions, as well as focusing on the habitats these species utilize. As Nebraska continues to become afforested, especially along watercourses, we predict that we will continue to see a westwards shift of 
     
@@ -60,7 +60,9 @@ We here deviate from established checklists in considering the Western Marsh-Wre
     
 ## Warbling *Vireo*
     
-We here deviate from established checklists based on data from Canada indicating extremely high levels of reproductive isolation between Western *swainsoni* and Eastern *gilvus*.
+We here deviate from established checklists based on data from Canada indicating extremely high levels of reproductive isolation between Western *swainsoni* and Eastern *gilvus*.[^wavi1]
+    
+[^wavi1]: canada wavi paper
     
 # Localized hybrid zones
     
