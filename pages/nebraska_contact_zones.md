@@ -35,9 +35,9 @@ The [Western Wood-Pewee *Contopus sordidulus*](https://birdsoftheworld.org/bow/s
     
 ## *Sayornis* phoebes
     
-There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, Say's Phoebe *Sayornis sayae* frequents farms, old buildings, rocky outcrops, and some other open areas. Eastern Phoebe *Sayornis phoebe* is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x Black *S. nigricans* hybrids in the southwestern portion of the range.[^1]
+There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, Say's Phoebe *Sayornis sayae* frequents farms, old buildings, rocky outcrops, and some other open areas. Eastern Phoebe *Sayornis phoebe* is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x Black *S. nigricans* hybrids in the southwestern portion of the range[^1].
     
-[^1] Schukman, J. M., Atauchi, P. J., & Peterson, A. T. (2025). Geographic shifts of phoebe species (*Sayornis* spp.) in the central Great Plains of North America. *The Wilson Journal of Ornithology*, **137**(1):38–50. doi:[10.1080/15594491.2024.2444021](https://doi.org/10.1080/15594491.2024.2444021)
+[^1]: Schukman, J. M., Atauchi, P. J., & Peterson, A. T. (2025). Geographic shifts of phoebe species (*Sayornis* spp.) in the central Great Plains of North America. *The Wilson Journal of Ornithology*, **137**(1):38–50. doi:[10.1080/15594491.2024.2444021](https://doi.org/10.1080/15594491.2024.2444021)
 
 ## *Sialis* bluebirds
 ## Blue-gray Gnatcatcher *Polioptila caerulea*
