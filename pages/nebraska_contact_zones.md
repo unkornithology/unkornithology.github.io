@@ -46,6 +46,11 @@ Work in Nebraska should focus on the dynamics of these species with respect to m
 Two sister species of bluebird, Mountain Sialis currucoides and Eastern S. sialis, come into contact in western Nebraska.
     
 ## Blue-gray Gnatcatcher *Polioptila caerulea*
+    
+In the pine forests and cedar breaks of the western part of the state, western Blue-gray Gnatcatchers *Polioptila caerulea amoenissima* (part of the *P. c. obscura* group) have been increasing in frequency, abundance, and regularity over the past several decades. These birds are primarily restricted to the far west of the state, such as in the Pine Ridge, but they have been expanding eastwards along the Niobrara and there there has been a [single record of this taxon found in Custer County, central Nebraska](https://ebird.org/checklist/S187165016), in cedar breaks as well by UNK researchers.[^bggn1] Eastern Blue-gray Gnatcatchers *P. c. caerulea* have also been increasing in frequency in the state, but are found predominately in deciduous forests, especially in areas with some large trees (near edge and occassionally more in the forest).
+    
+[^bggn1]: birds of nebraska online
+    
 ## *Cistothorus* Marsh-Wrens
     
 We here deviate from established checklists in considering the Western Marsh-Wren as separate from the Eastern Marsh-Wren. These species are vocally distinct, show clear distributional differences, and apparently show limited evidence of interbreeding in the Nebraska contact zone.
