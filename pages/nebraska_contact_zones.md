@@ -42,6 +42,8 @@ No hybrids between these two species had ever been confirmed before the 2010s, w
 [^contopus2025]: Manthey, Joseph D. & Mark B. Robbins. 2025. Hybridization and genome-wide introgression in sympatric populations of North American wood-pewees (*Contopus sordidulus* and *Contopus virens*). *Ibis* doi: [10.1111/ibi.13401](https://doi.org/10.1111/ibi.13401)
 
 ### Identification
+
+<iframe loading="lazy" src="https://macaulaylibrary.org/asset/620643741/embed" width="640" height="419" frameborder="0" allowfullscreen="allowfullscreen"> 
     
 <iframe width='350' height='220' src='https://macaulaylibrary.org/asset/620643741' frameborder='1' allowfullscreen></iframe> 
     
