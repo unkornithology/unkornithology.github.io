@@ -47,7 +47,7 @@ Western and Eastern wood-pewees are best distinguised by song. Western Wood-Pewe
     
 <iframe src="https://macaulaylibrary.org/asset/620643741/embed" height="92vh" width="640" frameborder="0" allowfullscreen></iframe>
     
-Eastern Wood-Pewees give a starkly different, clear "Peee-a-WEEE!"
+Eastern Wood-Pewees give a starkly different, clear "Pee-wee-rheeEEE!"
     
 <iframe src="https://macaulaylibrary.org/asset/466803731/embed" height="92" width="640" frameborder="0" allowfullscreen></iframe>
     
