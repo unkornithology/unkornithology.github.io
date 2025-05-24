@@ -43,7 +43,7 @@ No hybrids between these two species had ever been confirmed before the 2010s, w
 
 ### Identification
 
-<iframe loading="lazy" src="https://macaulaylibrary.org/asset/620643741/embed" width="640" height="419" frameborder="0" allowfullscreen="allowfullscreen"> 
+<iframe src="https://macaulaylibrary.org/asset/620643741/embed" width="640" height="419" frameborder="0" allowfullscreen="allowfullscreen"></iframe> 
     
 <iframe width='350' height='220' src='https://macaulaylibrary.org/asset/620643741' frameborder='1' allowfullscreen></iframe> 
     
