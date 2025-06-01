@@ -24,6 +24,7 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 # 2025
 
+1. [White-rumped Sandpiper<i>Calidris fuscicollis</i>](https://ebird.org/checklist/S241271649) - first county record for Howard, Nebraska. (Cody McGregor)
 1. [Gray-cheeked Thrush <i>Catharus minimus</i>](https://ebird.org/checklist/S240624474) - first county record for Scotts Bluff, Nebraska. (Eugene A. Huryn, Cody McGregor, Tommy Childers)
 1. [Glossy Ibis <i>Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for Buffalo, Nebraska. (Eugene A. Huryn, Cody McGregor)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S233097121) - first county record for Hitchcock, Nebraska. (Jacob C. Cooper, Robin Harding, and others)

@@ -57,13 +57,23 @@ Eastern Wood-Pewees give a starkly different, clear "Pee-wee-rheeEEE!"
     
 ### Overview
     
-There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, [Say's Phoebe *Sayornis sayae*](https://birdsoftheworld.org/bow/species/saypho/cur/introduction) frequents farms, old buildings, rocky outcrops, and some other open areas. [Eastern Phoebe *Sayornis phoebe*](https://birdsoftheworld.org/bow/species/easpho/cur/introduction) is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x [Black *S. nigricans*](https://birdsoftheworld.org/bow/species/blkpho/cur/introduction) hybrids in the southwestern portion of the range.[^saph1]
+There are three species of *Sayornis* that occur within North America - two of these breed in Nebraska, acting largely as latitudinal replacements of one another. In the west, [Say's Phoebe *Sayornis sayae*](https://birdsoftheworld.org/bow/species/saypho/cur/introduction) frequents farms, old buildings, rocky outcrops, and some other open areas. [Eastern Phoebe *Sayornis phoebe*](https://birdsoftheworld.org/bow/species/easpho/cur/introduction) is found predominately in the east, but in the western regions of its range frequents arid canyons, bridges, and outcrops near water. Work in adjacent Kansas has shown that Eastern Phoebes appear to be displacing Say's as afforestation occurs, with many sites formerly occupied by Say's Phoebes now occupied by Eastern, and a noticeable uptick of Say's x [Black *S. nigricans*](https://birdsoftheworld.org/bow/species/blkpho/cur/introduction) hybrids in the southwestern portion of the range.[^saph1] The increased levels of hybridization between Eastern & Black Phoebes as compared to Eastern & Say's Phoebe is unsurprising given that Say's Phoebe represents the outgroup within this genus.[^saph2]
     
-Work in Nebraska should focus on the dynamics of these species with respect to modern and historical distributions, as well as focusing on the habitats these species utilize. As Nebraska continues to become afforested, especially along watercourses, we predict that we will continue to see a westwards shift of 
+Work in Nebraska should focus on the dynamics of these species with respect to modern and historical distributions, as well as focusing on the habitats these species utilize. As Nebraska continues to become afforested, especially along watercourses, we predict that we will continue to see a westwards shift of Eastern Phoebe, with the species potentially replacing Say's Phoebe in many areas.[^saph1]
     
 ### Identification
+
+Eastern Phoebes are overall grayish (with an occasional greenish tone to the gray), being white on the belly and variably dingy on the chest. There is no eye ring, birds may appear slightly crested, and when perched Eastern Phoebes often wag their tails. Eastern Phoebes are often found near water, frequently nesting in culverts, under bridges, and in shelters.
+    
+<iframe src="https://macaulaylibrary.org/asset/601440191/embed" height="519" width="640" frameborder="0" allowfullscreen></iframe>
+    
+Say's Phoebes are very similar in shape, but are overall browner-gray, sometimes darkest towards the head and cap, with a distinctive salmon belly. They are less tied to water than Eastern Phoebes, and are frequently found around farmsteads, especially in areas where there are sheds or farm equipment providing multiple perches. Away from human habitation, they are often found near rock faces or steep banks that provide habitat for perching and nesting.
+    
+<iframe src="https://macaulaylibrary.org/asset/601434791/embed" height="519" width="640" frameborder="0" allowfullscreen></iframe>
     
 [^saph1]: Schukman, J. M., Atauchi, P. J., & Peterson, A. T. (2025). Geographic shifts of phoebe species (*Sayornis* spp.) in the central Great Plains of North America. *The Wilson Journal of Ornithology*, **137**(1):38–50. doi:[10.1080/15594491.2024.2444021](https://doi.org/10.1080/15594491.2024.2444021)
+
+[^saph2]: Cicero C., Johnson N. K. (2002). Phylogeny and character evolution in the *Empidonax* group of tyrant flycatchers (Aves:  Tyrannidae): a test of W. E. Lanyon's hypothesis using mtDNA sequences. *Molecular Phylogenetics and Evolution*, **22**(2):289-302. doi: [10.1006/mpev.2001.1054](https://doi.org/10.1006/mpev.2001.1054)
 
 ## *Sialis* bluebirds
     
