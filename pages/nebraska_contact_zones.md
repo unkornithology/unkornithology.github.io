@@ -81,7 +81,7 @@ Say's Phoebes are very similar in shape, but are overall browner-gray, sometimes
     
 ### Overview
     
-Two sister species of bluebird, Mountain Sialis currucoides and Eastern S. sialis, come into contact in western Nebraska.
+Two sister species of bluebird, [Mountain *Sialis currucoides*](https://birdsoftheworld.org/bow/species/moublu/cur/introduction) and [Eastern *S. sialis*](https://birdsoftheworld.org/bow/species/easblu/cur/introduction), come into contact in western Nebraska. These species hybridize occassionally hybridizing across the Great Plains.
     
 ### Identification
     
