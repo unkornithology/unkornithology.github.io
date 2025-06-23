@@ -24,6 +24,8 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 # 2025
 
+1. [Golden-winged Warbler <i>Vermivora chrysoptera</i>](https://ebird.org/checklist/S251706049) - first county record for Dawes, Nebraska. (Eugene Huryn)
+1. [Black-throated Sparrow<i>Amphispiza bilineata</i>](https://ebird.org/checklist/S250196271) - tenth state record for Nebraska, second county record for Sioux. (Eugene Huryn)
 1. [White-rumped Sandpiper<i>Calidris fuscicollis</i>](https://ebird.org/checklist/S241271649) - first county record for Howard, Nebraska. (Cody McGregor)
 1. [Gray-cheeked Thrush <i>Catharus minimus</i>](https://ebird.org/checklist/S240624474) - first county record for Scotts Bluff, Nebraska. (Eugene A. Huryn, Cody McGregor, Tommy Childers)
 1. [Glossy Ibis <i>Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for Buffalo, Nebraska. (Eugene A. Huryn, Cody McGregor)
