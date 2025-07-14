@@ -20,24 +20,26 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab. Records are listed in reverse chronological order.
+Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab; **all records are from Nebraska unless states otherwise**. Records are listed in reverse chronological order.
 
 # 2025
 
-1. [Golden-winged Warbler <i>Vermivora chrysoptera</i>](https://ebird.org/checklist/S251706049) - first county record for Dawes, Nebraska. (Eugene Huryn)
-1. [Black-throated Sparrow<i>Amphispiza bilineata</i>](https://ebird.org/checklist/S250196271) - tenth state record for Nebraska, second county record for Sioux. (Eugene Huryn)
+1. [Least Bittern <i>Botaurus exilis</i>](https://ebird.org/checklist/S259541615) - first county record for Nance. (Peggy M. Huss, Robin Harding, Jacob C. Cooper)
+1. [Black-bellied Whistling-Duck <i>Dendrocygna autumnalis</i>](https://ebird.org/checklist/S259502982) - first county record for Merrick. (Jacob C. Cooper, Peggy M. Huss)
+1. [Golden-winged Warbler <i>Vermivora chrysoptera</i>](https://ebird.org/checklist/S251706049) - first county record for Dawes. (Eugene A. Huryn)
+1. [Black-throated Sparrow<i>Amphispiza bilineata</i>](https://ebird.org/checklist/S250196271) - tenth state record for Nebraska, second county record for Sioux. (Eugene A. Huryn)
 1. [White-rumped Sandpiper<i>Calidris fuscicollis</i>](https://ebird.org/checklist/S241271649) - first county record for Howard, Nebraska. (Cody McGregor)
 1. [Gray-cheeked Thrush <i>Catharus minimus</i>](https://ebird.org/checklist/S240624474) - first county record for Scotts Bluff, Nebraska. (Eugene A. Huryn, Cody McGregor, Tommy Childers)
 1. [Glossy Ibis <i>Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for Buffalo, Nebraska. (Eugene A. Huryn, Cody McGregor)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S233097121) - first county record for Hitchcock, Nebraska. (Jacob C. Cooper, Robin Harding, and others)
 1. [Barrow's Goldeneye <i>Bucephala islandica</i>](https://ebird.org/checklist/S215413168) - second county record for Buffalo, Nebraska; one of only a few records east of Lincoln County within Nebraska. (Cody McGregor)
-1. [Leucistic Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Eugene Huryn)
+1. [Leucistic Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Eugene Huryn)
    
 # 2024
 
-1. [Long-tailed Duck <i>Clangula hyemalis</i>](https://ebird.org/checklist/S205532241) - second record for Buffalo, Nebraska. (Eugene Huryn, Cody McGregor)
-1. [Winter Wren <i>Troglodytes hiemalis</i>](https://ebird.org/checklist/S203404420) - first county record for Red Willow, Nebraska. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Keith Geluso)
-1. [Long-tailed Jaeger <i>Stercorarius longicaudus</i>](https://ebird.org/checklist/S198746894) - first county record for Sherman, Nebraska; thirteenth accepted state record at that time. (Jacob C. Cooper, Eugene Huryn, Robin Harding)
+1. [Long-tailed Duck <i>Clangula hyemalis</i>](https://ebird.org/checklist/S205532241) - second record for Buffalo, Nebraska. (Eugene A. Huryn, Cody McGregor)
+1. [Winter Wren <i>Troglodytes hiemalis</i>](https://ebird.org/checklist/S203404420) - first county record for Red Willow, Nebraska. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Keith Geluso)
+1. [Long-tailed Jaeger <i>Stercorarius longicaudus</i>](https://ebird.org/checklist/S198746894) - first county record for Sherman, Nebraska; thirteenth accepted state record at that time. (Jacob C. Cooper, Eugene A. Huryn, Robin Harding)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S196215738) - first county record for Dawson, Nebraska. (Mike Roffman)
 1. [Western Blue-gray Gnatcatcher <i>Polioptila caerulea</i> (<i>obscura</i> subspecies group)](https://ebird.org/checklist/S187165016) - first county record for Custer, Nebraska; one of the easternmost records in the state. (Jacob C. Cooper, Darcey Taylor, Nate Eidem)
 1. [Zabulon Skipper <i>Lon zabulon</i>](https://www.inaturalist.org/observations/218544472) - first county record for Howard, Nebraska. (Jacob C. Cooper)
