@@ -47,11 +47,11 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 
 <img align="left" src="/images/eugene.jpeg" alt="huryn" width="140" hspace="10">
 #### Eugene Huryn
-Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/).
+Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/). Advisor: Dr. Jacob C. Cooper
 <br><br>
 
 #### Cody McGregor
-Cody is broadly interested in ornithology in general, having worked from Texas to North Carolina, but he has returned back to his home of Buffalo County to better understand how landscape changes (name afforestation) are affecting the prairie bird communities he holds near and dear. (Spoiler alert - Eastern Red Cedar <i>Juniperus virginianus</i> appears to be bad for prairie birds). Cody is originally from Gibbon, Nebraska, and completed his undergraduate degree at the [University of Nebraska-Lincoln](https://www.unl.edu/).
+Cody is broadly interested in ornithology in general, having worked from Texas to North Carolina, but he has returned back to his home of Buffalo County to better understand how landscape changes (name afforestation) are affecting the prairie bird communities he holds near and dear. (Spoiler alert - Eastern Red Cedar <i>Juniperus virginianus</i> appears to be bad for prairie birds). Cody is originally from Gibbon, Nebraska, and completed his undergraduate degree at the [University of Nebraska-Lincoln](https://www.unl.edu/). Advisors: Dr. Jayne Jonas and Dr. Letty Reichart.
 <br><br>
 
 --------
@@ -62,24 +62,19 @@ Students are listed alphabetically.
 <br>
 
 #### SB
-From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area.
+From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area. Advisor: Dr. Jacob C. Cooper.
 	
-<img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
-#### Hailey Fuqua
-Born and raised in central Nebraska, Hailey is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
-<br><br>
-
 #### Peggy Huss
-Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
+Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region. Advisor: Dr. Jacob C. Cooper.
 <br><br>
 
 #### Darcey Taylor
-Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the vocalizations of different populations of [Green Hylia *Hylia prasina*](https://en.wikipedia.org/wiki/Green_hylia) across Africa.
+Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the vocalizations of different populations of [Green Hylia *Hylia prasina*](https://en.wikipedia.org/wiki/Green_hylia) across Africa. Advisor: Dr. Jacob C. Cooper.
 <br><br>
 
 <img align="left" src="/images/ajelina.jpeg" alt="ajelina" width="140" hspace="10"/>
 #### Ajelina Mijak
-Ajelina comes to us from the aviation program to help with our data digitization project. Working closely with the Professor Laurinda Weisse and others at the UNK Library, her work will help make available original notes on the birds of Nebraska - some of which are over a century old! 
+Ajelina comes to us from the aviation program to help with our data digitization project. Working closely with the Professor Laurinda Weisse and others at the UNK Library, her work will help make available original notes on the birds of Nebraska - some of which are over a century old! Advisors: Laurinda Wiesse and Dr. Jacob C. Cooper.
 <br><br>
 
 --------
@@ -92,11 +87,16 @@ Folks are listed in reverse order of graduation or finishing research.
 ### Undergraduates
 <br>
 	
-#### RH
-Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's current research was focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska. Her work was designed to help us better understand the dynamics of these species in an isolated patch of habitat near the western edge of their distribution and shed light on how these small owls have adapted to urban and rural habitats.
+<img align="left" src="/images/fuqua.jpg" alt="fuqua" width="140" hspace="10"/>
+#### Hailey Fuqua
+Born and raised in central Nebraska, Hailey's love of waterfowl and prairies translated well into research about the rainwater basins of the central plains with Dr. Letty Reichart. She has pursued a career in education.
+<br><br>
+	
+	#### RH
+Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's research was focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska with Dr. Letty Reichart.
 	
 #### Mike Roffman
-Mike worked on digitizing historical data from throughout the state of Nebraska, specifically focusing on the birds of Dakota County.
+Mike worked on digitizing historical data from throughout the state of Nebraska, specifically focusing on the birds of Dakota County with Dr. Jacob C. Cooper.
 
 <img align="left" src="/images/maddie_cropped_resize.jpeg" alt="maddie" width="140" hspace="10">
 #### Maddie Bengston
