@@ -92,7 +92,7 @@ Folks are listed in reverse order of graduation or finishing research.
 Born and raised in central Nebraska, Hailey's love of waterfowl and prairies translated well into research about the rainwater basins of the central plains with Dr. Letty Reichart. She has pursued a career in education.
 <br><br>
 	
-	#### RH
+#### RH
 Broadly interested in ornithology in general and experienced with studying everything from raptors to storks, RH's research was focused on the dynamics of Eastern Screech-Owl <i>Megascops asio</i> populations in Kearney, Nebraska with Dr. Letty Reichart.
 	
 #### Mike Roffman
