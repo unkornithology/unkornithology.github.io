@@ -69,7 +69,6 @@ From rural northeast Nebraska, SB loves to be outside and loves anything that ca
 Born and raised in central Nebraska, Hailey is channeling her love of the Nebraska's prairies and rivers towards her research focused on habitat use and habitat quality in the Nebraska rainwater basin and Platte River valley. Her work is always tangentially related to her main interest, waterfowl, which she hopes to continue to study after her undergraduate career.
 <br><br>
 
-<img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
 #### Peggy Huss
 Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
 <br><br>
