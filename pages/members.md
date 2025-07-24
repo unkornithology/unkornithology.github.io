@@ -63,7 +63,8 @@ Students are listed alphabetically.
 
 #### SB
 From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area. Advisor: Dr. Jacob C. Cooper.
-	
+
+<img align="left" src="/images/huss.png" alt="huss" width="140" hspace="10">
 #### Peggy Huss
 Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region. Advisor: Dr. Jacob C. Cooper.
 <br><br>
