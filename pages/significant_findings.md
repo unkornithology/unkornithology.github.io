@@ -24,7 +24,6 @@ Member of the lab are constantly keeping track of species they observe everywher
 
 # 2025
 
-1. [Laughing Gull <i>Leucophaeus atricilla</i>](https://ebird.org/checklist/S262384508) - first county record for Buffalo. (Jacob C. Cooper)
 1. [Least Bittern <i>Botaurus exilis</i>](https://ebird.org/checklist/S259541615) - first county record for Nance. (Peggy M. Huss, Robin Harding, Jacob C. Cooper)
 1. [Black-bellied Whistling-Duck <i>Dendrocygna autumnalis</i>](https://ebird.org/checklist/S259502982) - first county record for Merrick. (Jacob C. Cooper, Peggy M. Huss)
 1. [Golden-winged Warbler <i>Vermivora chrysoptera</i>](https://ebird.org/checklist/S251706049) - first county record for Dawes. (Eugene A. Huryn)
