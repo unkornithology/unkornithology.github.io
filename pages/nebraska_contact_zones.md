@@ -27,8 +27,10 @@ The taxonomy here follows the eBird/Clements taxonomy and the AOS taxonomy. The 
 
 Several species come into contact in Nebraska that possess little-to-no hybridization within this region. More research is needed to understand the dynamics of these species when and where they come into contact.
     
-This section also includes species whose primary hybrid zones appear to be outside Nebraska.    
+This section also includes species whose primary hybrid zones appear to be outside Nebraska.
 
+## *Myiarchus* flycatchers
+    
 ## *Contopus* pewees
 
 ### Overview
@@ -113,7 +115,7 @@ We here deviate from established checklists in considering the Western Marsh-Wre
     
 ### Identification
     
-## Warbling *Vireo* complex
+## Warbling-Vireos
     
 ### Overview
     
@@ -124,6 +126,8 @@ We here deviate from established checklists based on data from Canada indicating
 [^wavi1]: canada wavi paper
     
 # Localized hybrid zones
+    
+## *Tympanuchus* grouse
     
 ## *Pheucticus* grosbeaks
 
@@ -156,3 +160,16 @@ We here deviate from established checklists based on data from Canada indicating
 ### Overview
     
 ### Identification
+    
+# Other transition zones
+    
+## Downy Woodpecker *Dryobates pubescens*
+    
+## Hairy Woodpecker *Leuconotopicus villosus*
+    
+## Horned Lark *Eremophila alpestris*
+    
+## Northern House Wren *Troglodytes aedon*
+    
+## Ovenbird *Seiurus aurocapilla*
+    
