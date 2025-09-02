@@ -26,6 +26,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
+1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S270288846) - first county record for <i>Buffalo</i>. (Cody McGregor)
 1. [Ovenbird <i>Seiurus auricapilla</i>](https://ebird.org/checklist/S270502242) - first county record for <i>Banner</i>. (Eugene A. Huryn, Tommy Childers)
 1. [Least Bittern <i>Botaurus exilis</i>](https://ebird.org/checklist/S259541615) - first county record for <i>Nance</i>. (Peggy M. Huss, Robin Harding, Jacob C. Cooper)
 1. [Black-bellied Whistling-Duck <i>Dendrocygna autumnalis</i>](https://ebird.org/checklist/S259502982) - first county record for <i>Merrick</i>. (Jacob C. Cooper, Peggy M. Huss)
