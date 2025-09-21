@@ -69,8 +69,6 @@ From rural northeast Nebraska, SB loves to be outside and loves anything that ca
 Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region. Advisor: Dr. Jacob C. Cooper.
 <br><br>
 
-
-
 #### Darcey Taylor
 Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the vocalizations of different populations of [Green Hylia *Hylia prasina*](https://en.wikipedia.org/wiki/Green_hylia) across Africa. Advisor: Dr. Jacob C. Cooper.
 <br><br>
