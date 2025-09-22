@@ -26,7 +26,8 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
-1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S271825744) - second county record for <i>Buffalo</i>. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Kojo Baidoo, Tommy Childers)
+1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S271825744) - second county record for <i>Buffalo</i>. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Kojo Baidoo, Tommy Childers, Connor Harrison)
+1. [Cassin's Vireo <i>Vireo cassinii</i>](https://ebird.org/checklist/S271629402) - first county record for <i>Buffalo</i>. (Cody McGregor)
 1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S270288846) - first county record for <i>Buffalo</i>. (Cody McGregor)
 1. [Ovenbird <i>Seiurus auricapilla</i>](https://ebird.org/checklist/S270502242) - first county record for <i>Banner</i>. (Eugene A. Huryn, Tommy Childers)
 1. [Least Bittern <i>Botaurus exilis</i>](https://ebird.org/checklist/S259541615) - first county record for <i>Nance</i>. (Peggy M. Huss, Robin Harding, Jacob C. Cooper)
