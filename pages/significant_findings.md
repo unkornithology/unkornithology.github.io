@@ -20,7 +20,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab; **all records are from Nebraska unless states otherwise**. Records are listed in reverse chronological order.
+Member of the lab are constantly keeping track of species they observe everywhere they go in an effort to document biodiversity in Nebraska and elsewhere. The following are significant observations from members of the lab; **all records are from Nebraska unless stated otherwise**. Records are listed in reverse chronological order.
    
 All records are from Nebraska counties unless otherwise noted; county names are <i>italicized</i>.
 
