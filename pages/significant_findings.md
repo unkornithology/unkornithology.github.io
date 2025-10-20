@@ -26,6 +26,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
+1. [Chestnut-collared Longspur <i>Calcarius ornatus</i>](https://ebird.org/checklist/S280398930) - first county record for <i>Logan</i>. (Jacob C. Cooper, Caroline J. Cooper)
 1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S271825744) - second county record for <i>Buffalo</i>. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Kojo Baidoo, Tommy Childers, Connor Harrison)
 1. [Cassin's Vireo <i>Vireo cassinii</i>](https://ebird.org/checklist/S271629402) - first county record for <i>Buffalo</i>. (Cody McGregor)
 1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S270288846) - first county record for <i>Buffalo</i>. (Cody McGregor)
