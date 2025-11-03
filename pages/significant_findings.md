@@ -26,6 +26,8 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
+1. [LeConte's Sparrow <i>Ammospiza leconteii</i>](https://ebird.org/checklist/S281485486) - first county record for <i>Harlan</i>. (Eugene Huryn)
+1. Smith's Longspur <i>Calcarius pictus</i> - [second](https://ebird.org/checklist/S281465543) and [third](https://ebird.org/checklist/S281545686) county records for <i>Buffalo</i> on the same day. (Jacob C. Cooper and Cody McGregor, respectively)
 1. [Chestnut-collared Longspur <i>Calcarius ornatus</i>](https://ebird.org/checklist/S280398930) - first county record for <i>Logan</i>. (Jacob C. Cooper, Caroline J. Cooper)
 1. [Yellow-bellied Flycatcher <i>Empidonax flaviventris</i>](https://ebird.org/checklist/S271825744) - second county record for <i>Buffalo</i>. (Jacob C. Cooper, Cody McGregor, Peggy Huss, Kojo Baidoo, Tommy Childers, Connor Harrison)
 1. [Cassin's Vireo <i>Vireo cassinii</i>](https://ebird.org/checklist/S271629402) - first county record for <i>Buffalo</i>. (Cody McGregor)
