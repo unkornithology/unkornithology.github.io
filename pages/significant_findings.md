@@ -26,6 +26,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
+1. [Fox Sparrow <i>Passerella iliaca</i>](https://macaulaylibrary.org/asset/645285042) - first county record for <i>Sherman</i>. (Eugene Huryn, Cody McGregor)
 1. [Lesser Black-backed Gull <i>Larus fuscus</i>](https://ebird.org/checklist/S281642901) - first county record for <i>Buffalo</i>. (Eugene Huryn)
 1. [LeConte's Sparrow <i>Ammospiza leconteii</i>](https://ebird.org/checklist/S281485486) - first county record for <i>Harlan</i>. (Eugene Huryn)
 1. Smith's Longspur <i>Calcarius pictus</i> - [second](https://ebird.org/checklist/S281465543) and [third](https://ebird.org/checklist/S281545686) county records for <i>Buffalo</i> on the same day. (Jacob C. Cooper and Cody McGregor, respectively)
@@ -43,7 +44,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 1. [Glossy Ibis <i>Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for <i>Buffalo</i>. (Eugene A. Huryn, Cody McGregor)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S233097121) - first county record for <i>Hitchcock</i>. (Jacob C. Cooper, Robin Harding, and others)
 1. [Barrow's Goldeneye <i>Bucephala islandica</i>](https://ebird.org/checklist/S215413168) - second county record for <i>Buffalo</i>; one of only a few records east of <i>Lincoln</i> within Nebraska. (Cody McGregor)
-1. [Leucistic Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge in <i>Lincoln</i>. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Eugene Huryn)
+1. [Partial albino Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge in <i>Lincoln</i>. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Eugene Huryn)
    
 # 2024
 
