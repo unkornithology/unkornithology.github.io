@@ -26,6 +26,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2025
 
+1. [Crested Caracara <i>Caracara plancus</i>](https://ebird.org/checklist/S287515465) - second state record for Nebraska, first record for <i>Garden</i>. (Keegan Brown, Tobin Brown, Eugene Huryn)
 1. [Fox Sparrow <i>Passerella iliaca</i>](https://macaulaylibrary.org/asset/645285042) - first county record for <i>Sherman</i>. (Eugene Huryn, Cody McGregor)
 1. [Lesser Black-backed Gull <i>Larus fuscus</i>](https://ebird.org/checklist/S281642901) - first county record for <i>Buffalo</i>. (Eugene Huryn)
 1. [LeConte's Sparrow <i>Ammospiza leconteii</i>](https://ebird.org/checklist/S281485486) - first county record for <i>Harlan</i>. (Eugene Huryn)
