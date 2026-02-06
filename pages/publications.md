@@ -22,6 +22,12 @@ The following publication list is limited to those that have been authored or co
 
 ## Peer Reviewed Pubs
 
+29. Paysen, Joseph W., **Peggy M. Huss**, **Jacob C. Cooper**, Lance J. Bernal, Carter Kruse & Keith Geluso. 2025. Terrestrial Gartersnake (*Thamnophis elegans*) consuming a Western Meadow Vole (*Microtus drummondii*) in the Sangre de Cristo Mountains of New Mexico. *Transactions of the Nebraska Academy of Sciences* **45**:139-141. [PDF here](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1580&context=tnas)
+	
+28. **Cooper, Jacob C.**,  **Peggy M. Huss**, **Eugene A. Huryn** & **Cody B. McGregor**. 2025. An unusual Trumpter Swan (*Cygnus buccinator*) in Nebraska: Albinism or leucism? *Nebraska Bird Review* **93**(2):91-94. [PDF here](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2582&context=nebbirdrev)
+	
+27. Peterson, A. Townsend, **Jacob C. Cooper**, Lucas H. DeCicco, Abigail C. Perkins & Joanna Corimanya. 2025. Dynamics over a century in the summer avifauna of Little Salt Marsh, Quivira National Wildlife Refuge, in Central Kansas. *Kansas Ornithological Society Bulletin* **76**(4):29-47. *Note* that this accidentally omitted Black Rail in the publication. [PDF here](https://www.ksbirds.org/kos/bulletin/Vol76No4.pdf)
+	
 26. Nikolaou, Panagiotis, Billi A. Krochuk, Patricia F. Rodrigues, Kristin E. Brzeski, Susana L. Mufumu, Silvestre E. Malanza, Christopher M. Tonra, **Jacob C. Cooper**, Jared D. Wolfe & Luke L. Powell. 2025. Insights on avian life history and physiological traits in Central Africa: ant-following species have young-dominated age ratios in secondary forest. <i>Frontiers in Conservation Science</i> <b>6</b>:1504320. doi: [10.3389/fcosc.2025.1504320](https://doi.org/10.3389/fcosc.2025.1504320) <span style="color:blue">**Open Access**</span>
 	
 25. **Cooper, Jacob C.** 2024. Ecological niche divergence or ecological niche partitioning in a widespread Neotropical bird lineage. *PeerJ* **12**:e17345. doi: [10.7717/peerj.17345](https://doi.org/10.7717/peerj.17345) <span style="color:blue">**Open Access**</span>
