@@ -60,8 +60,19 @@ Students are listed alphabetically.
 From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area. Advisor: Dr. Jacob C. Cooper.
 <br><br>
 
+<img align="left" src="/images/harrison.jpeg" alt="harrison" width="140" hspace="10"/>
+
 #### Connor Harrison
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img align="left" src="/images/huss.png" alt="huss" width="140" hspace="10"/>
 
@@ -81,19 +92,18 @@ Ajelina comes to us from the aviation program to help with our data digitization
 <br>
 <br>
 <br>
-<br>
+
+<img align="left" src="/images/therrien.jpeg" alt="therrien" width="140" hspace="10"/>
 
 #### Sawyer Therrien
-Saywer is a native both to Vermont and to Nebraska. His research primarily focuses on resolving the question behind the shrinking populations of Yellow-billed Cuckoo (*Coccyzus americanus*) and Black-billed Cuckoo (*Coccyzus erythropthalmus*) in Nebraska by conducting point-count surveys. His research will help determine the breeding populations of these species and help us to understand the status of their population in Nebraska. 
-
+Sawyer is a native both to Vermont and to Nebraska. His research primarily focuses on resolving the question behind the shrinking populations of Yellow-billed Cuckoo (*Coccyzus americanus*) and Black-billed Cuckoo (*Coccyzus erythropthalmus*) in Nebraska by conducting point-count surveys. His research will help determine the breeding populations of these species and help us to understand the status of their population in Nebraska. Advisor: Dr. Jacob C. Cooper.
 
 --------
 --------
 	
-## Past Students
+## Past Students   {#past-students}
 Folks are listed in reverse order of graduation or finishing research.
 <br>
-
 ### Graduates
 <br>
 
@@ -110,8 +120,6 @@ Cody is broadly interested in ornithology in general, having worked from Texas t
 --------
 
 ### Undergraduates
-<br>
-
 #### Darcey Taylor
 Darcey is an undergraduate who is interested in wildlife and ecology. She is working on studying the vocalizations of different populations of [Green Hylia *Hylia prasina*](https://en.wikipedia.org/wiki/Green_hylia) across Africa. Advisor: Dr. Jacob C. Cooper.
 <br><br>
@@ -120,7 +128,6 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 
 #### Hailey Fuqua
 Born and raised in central Nebraska, Hailey's love of waterfowl and prairies translated well into research about the rainwater basins of the central plains with Dr. Letty Reichart. She has pursued a career in education.
-<br>
 <br>
 <br>
 <br>
@@ -148,7 +155,6 @@ Josh blended his holistic views of nature with hands-on and theoretical research
 <br>
 <br>
 <br>
-<br>
 
 #### Mélusine Velde
 Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her [undergraduate thesis](https://doi.org/10.1101/2023.01.13.523331) focused on testing the predictions of ecological niche models in Costa Rica. Mélusine completed a Masters at Imperial College, Silwood Park, and currently works for the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) in the United Kingdom. Mélusine was advised by Dr. John M. Bates and Jacob C. Cooper.
@@ -163,12 +169,11 @@ Sara is broadly interested in biodiversity and conservation, and enjoys birding 
 <br>
 <br>
 <br>
-<br>
-	
+
 --------
 --------
 	
-## Other Members
+## Other Members   {#other-members}
 <br>
 
 <img align="left" src="/images/gracie.jpg" alt="gracie" width="140" hspace="10"/>
