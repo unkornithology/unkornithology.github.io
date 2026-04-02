@@ -72,6 +72,7 @@ Interested in genetics and understanding evolutionary relationships, Peggy will 
 <br>
 <br>
 <br>
+<br>
 
 <img align="left" src="/images/ajelina.jpeg" alt="ajelina" width="140" hspace="10"/>
 
@@ -82,18 +83,20 @@ Ajelina comes to us from the aviation program to help with our data digitization
 <br>
 <br>
 <br>
+<br>
+
+<img align="left" src="/images/therrien.jpeg" alt="therrien" width="140" hspace="10"/>
 
 #### Sawyer Therrien
-Saywer is a native both to Vermont and to Nebraska. His research primarily focuses on resolving the question behind the shrinking populations of Yellow-billed Cuckoo (*Coccyzus americanus*) and Black-billed Cuckoo (*Coccyzus erythropthalmus*) in Nebraska by conducting point-count surveys. His research will help determine the breeding populations of these species and help us to understand the status of their population in Nebraska. 
+Saywer is a native both to Vermont and to Nebraska. His research primarily focuses on resolving the question behind the shrinking populations of Yellow-billed Cuckoo (*Coccyzus americanus*) and Black-billed Cuckoo (*Coccyzus erythropthalmus*) in Nebraska by conducting point-count surveys. His research will help determine the breeding populations of these species and help us to understand the status of their population in Nebraska. Advisor: Dr. Jacob C. Cooper.
 
 
 --------
 --------
 	
-## Past Students
+## Past Students   {#past-students}
 Folks are listed in reverse order of graduation or finishing research.
 <br>
-
 ### Graduates
 <br>
 
@@ -120,7 +123,6 @@ Darcey is an undergraduate who is interested in wildlife and ecology. She is wor
 
 #### Hailey Fuqua
 Born and raised in central Nebraska, Hailey's love of waterfowl and prairies translated well into research about the rainwater basins of the central plains with Dr. Letty Reichart. She has pursued a career in education.
-<br>
 <br>
 <br>
 <br>
@@ -168,7 +170,7 @@ Sara is broadly interested in biodiversity and conservation, and enjoys birding 
 --------
 --------
 	
-## Other Members
+## Other Members   {#other-members}
 <br>
 
 <img align="left" src="/images/gracie.jpg" alt="gracie" width="140" hspace="10"/>
