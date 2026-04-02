@@ -92,13 +92,11 @@ Ajelina comes to us from the aviation program to help with our data digitization
 <br>
 <br>
 <br>
-<br>
 
 <img align="left" src="/images/therrien.jpeg" alt="therrien" width="140" hspace="10"/>
 
 #### Sawyer Therrien
 Sawyer is a native both to Vermont and to Nebraska. His research primarily focuses on resolving the question behind the shrinking populations of Yellow-billed Cuckoo (*Coccyzus americanus*) and Black-billed Cuckoo (*Coccyzus erythropthalmus*) in Nebraska by conducting point-count surveys. His research will help determine the breeding populations of these species and help us to understand the status of their population in Nebraska. Advisor: Dr. Jacob C. Cooper.
-
 
 --------
 --------
@@ -157,7 +155,6 @@ Josh blended his holistic views of nature with hands-on and theoretical research
 <br>
 <br>
 <br>
-<br>
 
 #### Mélusine Velde
 Mélusine is broadly interested in conservation and biodiversity. Equally at home in the US and France, Mélusine has worked on a variety of projects on three continents, and her [undergraduate thesis](https://doi.org/10.1101/2023.01.13.523331) focused on testing the predictions of ecological niche models in Costa Rica. Mélusine completed a Masters at Imperial College, Silwood Park, and currently works for the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) in the United Kingdom. Mélusine was advised by Dr. John M. Bates and Jacob C. Cooper.
@@ -172,8 +169,7 @@ Sara is broadly interested in biodiversity and conservation, and enjoys birding 
 <br>
 <br>
 <br>
-<br>
-	
+
 --------
 --------
 	
