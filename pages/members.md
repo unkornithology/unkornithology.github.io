@@ -27,6 +27,8 @@ I'm not currently in a position to accept graduate students, but I am able to se
 ### Principal Investigators
 <br>
 
+<img align="left" src="/images/reichart.jpeg" alt="reichart" width="140" hspace="10" vspace="10"/>
+
 #### Letty Reichart (Professor, co-chair of Biology)
 Originally from the green hills of Pennsylvania, Letty pursued her love of birds and biology across the continent, studying the breeding systems of Ruddy Ducks <i>Oxyura jamaicensis</i> in the prairie potholes of the Canadian prairies. After finishing her PhD, Letty came to the [University of Nebraska at Kearney](https://www.unk.edu/), where she enjoys teaching and working with undergraduate students, as well as being involved with the local community. Letty is also extremely involved in the [Wilson Ornithological Society](https://wilsonsociety.org/), through which she helps enable research on a transcontinental scale. [Click here to learn more about Letty.](https://www.unk.edu/academics/biology/faculty/letitia_reichart.php)
 <br><br>
