@@ -63,12 +63,7 @@ From rural northeast Nebraska, SB loves to be outside and loves anything that ca
 <img align="left" src="/images/harrison.jpeg" alt="harrison" width="140" hspace="10"/>
 
 #### Connor Harrison
-
-
-
-<br>
-<br>
-<br>
+Connor comes to us from Omaha and he is getting an "earful" of wetland and grassland birds. Using audio to analyze Waterfowl Production Areas, Connor is looking to compare various restoration methods and discover the diversity of avian species at each location. Advisor. Dr. Jacob C. Cooper.
 <br>
 <br>
 <br>
