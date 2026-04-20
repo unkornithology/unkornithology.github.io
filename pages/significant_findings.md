@@ -24,6 +24,10 @@ Member of the lab are constantly keeping track of species they observe everywher
    
 All records are from Nebraska counties unless otherwise noted; county names are <i>italicized</i>.
 
+# 2026
+   
+1. Second county records of Long-billed Curlew <i>Numenius americanus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322596467) (Eugene Huryn) and [<i>Buffalo</i>](https://ebird.org/checklist/S322674009) (Cody McGregor) on the April 16! Eugene also found a third county record of Hudsonian Whimbrel <i>Numenius hudsonicus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322575284) on the same day.
+   
 # 2025
 
 1. [Crested Caracara <i>Caracara plancus</i>](https://ebird.org/checklist/S287515465) - second state record for Nebraska, first record for <i>Garden</i>. (Keegan Brown, Tobin Brown, Eugene Huryn)
