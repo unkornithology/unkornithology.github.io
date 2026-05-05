@@ -26,6 +26,8 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 
 # 2026
    
+1. [Hudsonian Whimbrel <i>Numenius hudsonicus</i>](https://ebird.org/checklist/S332155724) - first county record for <i>Jefferson</i> (Paul Pearson, Keegan Brown, Jacob C. Cooper)
+1. [Piping Plover <i>Charadrius melodus</i>](https://ebird.org/checklist/S332022359) - first county record for <i>Richardson</i> (Tobin Brown, Keegan Brown, Jacob C. Cooper, Paul Pearson, Body Biberdorf, Addie Teet)
 1. Second county records of Long-billed Curlew <i>Numenius americanus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322596467) (Eugene Huryn) and [<i>Buffalo</i>](https://ebird.org/checklist/S322674009) (Cody McGregor) on the April 16! Eugene also found a third county record of Hudsonian Whimbrel <i>Numenius hudsonicus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322575284) on the same day.
    
 # 2025
