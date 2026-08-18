@@ -28,7 +28,7 @@ The following publication list is limited to those that have been authored or co
 	
 34. **Cooper, Jacob C.**, Roselvy Juárez, Diego F. Barragán & Paul F. D. Boesman. 2026. South American Leaftosser (*Sclerurus obscurior*), version 2.0. *In* Birds of theWorld (Thomas S. Schulenberg and Brooke K. Keeney, Editors). Cornell Lab of Ornithology, Ithaca, NY, USA. doi:[10.2173/bow.soalea1.02](https://doi.org/10.2173/bow.soalea1.02)
 	
-33. **Huryn, Eugene A.** & **Jacob C. Cooper**. 2026. First confirmed Nebraska breeding record of the Common Raven (*Corvus corax*) since the 19^{th} century. *Nebraska Bird Review* **93**(3):118-123.
+33. **Huryn, Eugene A.** & **Jacob C. Cooper**. 2026. First confirmed Nebraska breeding record of the Common Raven (*Corvus corax*) since the 19<sup>th</sup> century. *Nebraska Bird Review* **93**(3):118-123.
 	
 32. Gilbert, Neil A., Natalie Queally, **Jacob C. Cooper**, Harold N. Eyster & Peter J. Williams. 2026. Heterogeneity, productivity, and migration drive continental evenness patterns of bird assemblages. *Global Ecology and Biogeography* **35**:e70205. doi:[10.1111/geb.70205](https://doi.org/10.1111/geb.70205)
 
