@@ -48,12 +48,12 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 1. [Black-bellied Whistling-Duck <i>Dendrocygna autumnalis</i>](https://ebird.org/checklist/S259502982) - first county record for <i>Merrick</i>. (Jacob C. Cooper, Peggy M. Huss)
 1. [Golden-winged Warbler <i>Vermivora chrysoptera</i>](https://ebird.org/checklist/S251706049) - first county record for <i>Dawes</i>. (Eugene A. Huryn)
 1. [Black-throated Sparrow <i>Amphispiza bilineata</i>](https://ebird.org/checklist/S250196271) - tenth state record for Nebraska, second county record for <i>Sioux</i>. (Eugene A. Huryn)
-1. [White-rumped Sandpiper<i>Calidris fuscicollis</i>](https://ebird.org/checklist/S241271649) - first county record for <i>Howard</i>. (Cody McGregor)
+1. [White-rumped Sandpiper <i>Calidris fuscicollis</i>](https://ebird.org/checklist/S241271649) - first county record for <i>Howard</i>. (Cody McGregor)
 1. [Gray-cheeked Thrush <i>Catharus minimus</i>](https://ebird.org/checklist/S240624474) - first county record for <i>Scotts Bluff</i>. (Eugene A. Huryn, Cody McGregor, Tommy Childers)
 1. [Glossy Ibis <i>Plegadis falcinellus</i>](https://ebird.org/checklist/S236435834) - first county record for <i>Buffalo</i>. (Eugene A. Huryn, Cody McGregor)
 1. [Blue-headed Vireo <i>Vireo solitarius</i>](https://ebird.org/checklist/S233097121) - first county record for <i>Hitchcock</i>. (Jacob C. Cooper, Robin Harding, and others)
 1. [Barrow's Goldeneye <i>Bucephala islandica</i>](https://ebird.org/checklist/S215413168) - second county record for <i>Buffalo</i>; one of only a few records east of <i>Lincoln</i> within Nebraska. (Cody McGregor)
-1. [Partial albino Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S210935485) - a rare color mutation in Trumpeter Swans posing a unique ID challenge in <i>Lincoln</i>. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Eugene Huryn)
+1. [Partial albino Trumpeter Swan <i>Cygnus buccinator</i>](https://ebird.org/checklist/S216770878) - a [rare color mutation in Trumpeter Swans posing a unique ID challenge](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2582&context=nebbirdrev) in <i>Lincoln</i>. (Jacob C. Cooper, Cody McGregor, Peggy M. Huss, Eugene Huryn)
    
 # 2024
 
