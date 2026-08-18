@@ -21,6 +21,12 @@ header:
 The following publication list is limited to those that have been authored or co-authored by Jacob C. Cooper; other papers by other folks need to be sought from academic websites or directly from the authors. **Bolded** authors are mentioned on the [Members]({{ site.url }}{{ site.baseurl }}/members/) page. To help increase the accessibility of our science, we strive to publish as many papers as possible in <span style="color:blue">**Open Access**</span> journals to make them freely available.
 
 ## Peer Reviewed Pubs
+
+36. Cordeiro, Norbert J., Jacob C. Cooper, Victor J. Mkongewa, Martin Joho, Jasson R. M. John & P. Kariuki Ndang’ang’a. 2026. Ecological niche models result in an extreme overestimation of area of occurrence in an Endangered East African songbird. Bird Conservation International 36:e26. doi:[10.1017/S0959270926100574](https://doi.org/10.1017/S0959270926100574)
+	
+35. Ji, Yanzhu, Lei Wu, Dongming Li, Shaohong Feng, Qi Fang, Ying Xiong, Yongbin Chang, **Jacob C. Cooper**, Xin Yu, Kai Zhang, Shiyu Tang, Huishang She, Huan Wang, Dezhi Zhang, Gang Song, Ping Fan, Jiaogen Zhou, Liang Ma, Yanhua Qu, Chenxi Jia, Catherine Sheard, James Andrew DeWoody, Joseph A. Tobias, Guojie Zhang, Weiwei Zhai & Fumin Lei. 2026. Flight style and metabolism shape the tempo of genome evolution in birds. *PLoS Biology* **24**(7):e3003884. doi:[10.1371/journal.pbio.3003884](https://doi.org/10.1371/journal.pbio.3003884)
+	
+34. **Cooper, Jacob C.**, Roselvy Juárez, Diego F. Barragán & Paul F. D. Boesman. 2026. South American Leaftosser (*Sclerurus obscurior*), version 2.0. *In* Birds of theWorld (Thomas S. Schulenberg and Brooke K. Keeney, Editors). Cornell Lab of Ornithology, Ithaca, NY, USA. doi:[10.2173/bow.soalea1.02](https://doi.org/10.2173/bow.soalea1.02)
 	
 33. **Huryn, Eugene A.** & **Jacob C. Cooper**. 2026. First confirmed Nebraska breeding record of the Common Raven (*Corvus corax*) since the 19^{th} century. *Nebraska Bird Review* **93**(3):118-123.
 	
