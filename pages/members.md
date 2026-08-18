@@ -38,6 +38,10 @@ Originally from the green hills of Pennsylvania, Letty pursued her love of birds
 #### Jacob C. Cooper (Assistant Professor)
 Growing up in western Colorado, Jacob was fascinated by the diversity of birds in the southwestern "sky islands" and the patchy, limited distributions of plants and animals in this rugged region. Jacob now studies the ecology and evolution of (mostly) birds worldwide, focusing specifically on the ecology and distribution of North American birds and on the ecology and biogeography of African birds. Jacob is an Assistant Professor at the [University of Nebraska at Kearney](https://www.unk.edu/) since July 2023, and he is a Research Associate of the [Field Museum](https://www.fieldmuseum.org). Jacob is a Citizen of the [Cherokee Nation](https://cherokee.org/). [Click here to learn more about Jacob or view his CV]({{ site.url }}{{ site.baseurl }}/jcc/).
 <br><br>
+	
+#### Cody McGregor (Visiting Lecturer)
+Cody is broadly interested in ornithology in general, having worked from Texas to North Carolina, but he has returned back to his home of Buffalo County to better understand how landscape changes (name afforestation) are affecting the prairie bird communities he holds near and dear. (Spoiler alert - Eastern Red Cedar <i>Juniperus virginianus</i> appears to be bad for prairie birds). Cody is originally from Gibbon, Nebraska, and completed his undergraduate degree at the [University of Nebraska-Lincoln](https://www.unl.edu/) and his Masters at the University of Nebraska at Kearney. Advisors: Dr. Jayne Jonas and Dr. Letty Reichart.
+<br><br>
 
 <img align="left" src="/images/eidem.jpg" alt="eidem" width="140" hspace="10"/>
 
@@ -56,14 +60,10 @@ A recent convert to collecting bird-related data, Nate is a geographer by trade.
 Students are listed alphabetically.
 <br>
 
-#### SB
-From rural northeast Nebraska, SB loves to be outside and loves anything that can get him outside. Wanting to combine his love of learning with his desire to explore, SB is working to help us establish banding operations in the Kearney area. Advisor: Dr. Jacob C. Cooper.
-<br><br>
-
 <img align="left" src="/images/harrison.jpeg" alt="harrison" width="140" hspace="10"/>
 
 #### Connor Harrison
-Connor comes to us from Omaha and he is getting an "earful" of wetland and grassland birds. Using audio to analyze Waterfowl Production Areas, Connor is looking to compare various restoration methods and discover the diversity of avian species at each location. Advisor. Dr. Jacob C. Cooper.
+Connor comes to us from Omaha and he is getting an "earful" of wetland and grassland birds. Using audio to analyze Waterfowl Production Areas, Connor is looking to compare various restoration methods and discover the diversity of avian species at each location. Advisor: Dr. Jayne Jonas-Bratten & Dr. Jacob C. Cooper.
 <br>
 <br>
 <br>
@@ -106,10 +106,6 @@ Folks are listed in reverse order of graduation or finishing research.
 
 #### Eugene Huryn
 Eugene is broadly interested in species ecology and diversification, especially as it relates to the evolution of diversity on earth. Eugene's research will focus on disentangling the dynamics of contact zones between closely related species in Nebraska. Eugene is a native of both Alberta and Alabama, having completed his undergraduate degree at the [University of Alabama](https://www.ua.edu/). Advisor: Dr. Jacob C. Cooper
-<br><br>
-
-#### Cody McGregor
-Cody is broadly interested in ornithology in general, having worked from Texas to North Carolina, but he has returned back to his home of Buffalo County to better understand how landscape changes (name afforestation) are affecting the prairie bird communities he holds near and dear. (Spoiler alert - Eastern Red Cedar <i>Juniperus virginianus</i> appears to be bad for prairie birds). Cody is originally from Gibbon, Nebraska, and completed his undergraduate degree at the [University of Nebraska-Lincoln](https://www.unl.edu/). Advisors: Dr. Jayne Jonas and Dr. Letty Reichart.
 <br><br>
 
 --------
