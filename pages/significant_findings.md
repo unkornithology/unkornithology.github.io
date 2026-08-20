@@ -27,6 +27,7 @@ All records are from Nebraska counties unless otherwise noted; county names are 
 # 2026
    
 1. [Black-billed Cuckoo <i>Coccyzus erythropthalmus</i>](https://ebird.org/checklist/S364270819) - first county record for <i>Burt</i> (Jacob C. Cooper, Paul Pearson)
+1. [Hybrid Western x Eastern Bluebird <i>Sialia occidentalis x sialis</i>](https://ebird.org/checklist/S382059731) being fed by a male Eastern Bluebird and a female Western Bluebird. Second record in the wild of this hybrid combination - <i>Colfax</i>, New Mexico
 1. [Carolina Wren <i>Thryothorus ludovicianus</i>](https://ebird.org/checklist/S356436009) - first county record for <i>Keya Paha</i> (Sawyer Therrien, Jacob C. Cooper)
 1. [Hudsonian Whimbrel <i>Numenius hudsonicus</i>](https://ebird.org/checklist/S332155724) - first county record for <i>Jefferson</i> (Paul Pearson, Keegan Brown, Jacob C. Cooper)
 1. [Piping Plover <i>Charadrius melodus</i>](https://ebird.org/checklist/S332022359) - first county record for <i>Richardson</i> (Tobin Brown, Keegan Brown, Jacob C. Cooper, Paul Pearson, Body Biberdorf, Addie Teet)
