@@ -25,10 +25,12 @@ Member of the lab are constantly keeping track of species they observe everywher
 All records are from Nebraska counties unless otherwise noted; county names are <i>italicized</i>.
 
 # 2026
-   
+
+1. [Mississippi Kite <i>Ictinia mississippiensis</i>](https://ebird.org/checklist/S388324877) - first county record for <i>Pawnee</i> (Cody B. McGregor, Jacob C. Cooper)
 1. [Black-billed Cuckoo <i>Coccyzus erythropthalmus</i>](https://ebird.org/checklist/S364270819) - first county record for <i>Burt</i> (Jacob C. Cooper, Paul Pearson)
 1. [Hybrid Western x Eastern Bluebird <i>Sialia occidentalis x sialis</i>](https://ebird.org/checklist/S382059731) being fed by a male Eastern Bluebird and a female Western Bluebird. Second record in the wild of this hybrid combination - <i>Colfax</i>, New Mexico
 1. [Carolina Wren <i>Thryothorus ludovicianus</i>](https://ebird.org/checklist/S356436009) - first county record for <i>Keya Paha</i> (Sawyer Therrien, Jacob C. Cooper)
+1. [Blackburnian Warbler <i>Setophaga fusca</i>](https://ebird.org/checklist/S343613317) - first county record for <i>Pawnee</i> (Jacob C. Cooper, Sawyer Therrien)
 1. [Hudsonian Whimbrel <i>Numenius hudsonicus</i>](https://ebird.org/checklist/S332155724) - first county record for <i>Jefferson</i> (Paul Pearson, Keegan Brown, Jacob C. Cooper)
 1. [Piping Plover <i>Charadrius melodus</i>](https://ebird.org/checklist/S332022359) - first county record for <i>Richardson</i> (Tobin Brown, Keegan Brown, Jacob C. Cooper, Paul Pearson, Body Biberdorf, Addie Teet)
 1. Second county records of Long-billed Curlew <i>Numenius americanus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322596467) (Eugene Huryn) and [<i>Buffalo</i>](https://ebird.org/checklist/S322674009) (Cody McGregor) on the April 16! Eugene also found a third county record of Hudsonian Whimbrel <i>Numenius hudsonicus</i> in [<i>Harlan</i>](https://ebird.org/checklist/S322575284) on the same day.
